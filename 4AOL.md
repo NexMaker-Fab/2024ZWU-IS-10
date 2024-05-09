@@ -1,10 +1,3 @@
----
-title: My Team
-author: [Your Name](https://your-website.com)
-email: [your-email@example.com](mailto:your-email@example.com)
-date: 2024-05-08
----
-
 # 4AOL
 
 I'm proud to be a part of an amazing team of talented and dedicated individuals. Here are some of my teammates:
