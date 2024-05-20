@@ -37,15 +37,15 @@
   width: 216px;
   height: 79px;
   position: absolute;
-  left: 577px;
-  top: 800px;
+  left: 576px;
+  top: 759px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
   );
 }
 .member {
-  color: #ffffff;
+  color: #9d74f4;
   text-align: center;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
@@ -70,8 +70,8 @@
   width: 216px;
   height: 79px;
   position: absolute;
-  left: 905px;
-  top: 800px;
+  left: 904px;
+  top: 759px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .assessment {
@@ -99,8 +99,8 @@
   width: 195px;
   height: 79px;
   position: absolute;
-  left: 1233px;
-  top: 800px;
+  left: 1232px;
+  top: 759px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .final-work {
@@ -128,8 +128,8 @@
   width: 216px;
   height: 79px;
   position: absolute;
-  left: 249px;
-  top: 800px;
+  left: 248px;
+  top: 759px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -146,7 +146,7 @@
   position: relative;
 }
 .team {
-  color: #ffffff;
+  color: #9d74f4;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
