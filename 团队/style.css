@@ -1,0 +1,149 @@
+.team,
+.team * {
+  box-sizing: border-box;
+}
+.team {
+  background: linear-gradient(to left, #f7f7f7, #f7f7f7);
+  border-radius: 8px;
+  height: 957px;
+  position: relative;
+  overflow: hidden;
+}
+._4-aol {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Plaster-Regular", sans-serif;
+  font-size: 128px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 502px;
+  top: 254px;
+  width: 673px;
+  height: 192px;
+}
+.our-team-is-comprised-of-a-group-of-vibrant-and-innovative-university-students-we-excel-in-various-fields-including-design-and-technology-with-diverse-skills-and-perspectives-we-firmly-believe-that-only-through-joint-efforts-can-we-create-more-outstanding-works {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Tomorrow-Regular", sans-serif;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 123px;
+  top: 480px;
+  width: 1425px;
+  height: 519px;
+  -webkit-text-stroke: 2px #78a2ee;
+}
+._14-header-navigation {
+  background: rgba(255, 255, 255, 0.1);
+  width: 1676px;
+  height: 145px;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+  overflow: hidden;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-m, 48px);
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 80px;
+  top: 56px;
+}
+.assessment {
+  color: #dd51a5;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.member {
+  color: #dd51a5;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team2 {
+  color: #dd51a5;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: rgba(221, 81, 165, 0.3);
+  border-radius: 8px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 150%);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.final-work {
+  color: #dd51a5;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: absolute;
+  left: 955px;
+  top: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._4-aol2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
