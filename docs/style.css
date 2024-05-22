@@ -1,8 +1,8 @@
-._10-hero-image-with-cta-overlay,
-._10-hero-image-with-cta-overlay * {
+.div,
+.div * {
   box-sizing: border-box;
 }
-._10-hero-image-with-cta-overlay {
+.div {
   background: linear-gradient(to left, #f7f7f7, #f7f7f7);
   border-radius: 8px;
   height: 957px;
@@ -45,7 +45,7 @@
   );
 }
 .member {
-  color: #9d74f4;
+  color: rgba(221, 81, 165, 0.8);
   text-align: center;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
@@ -75,7 +75,7 @@
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .assessment {
-  color: #9d74f4;
+  color: rgba(221, 81, 165, 0.8);
   text-align: center;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
@@ -104,7 +104,7 @@
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .final-work {
-  color: #9d74f4;
+  color: rgba(221, 81, 165, 0.8);
   text-align: center;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
@@ -146,7 +146,7 @@
   position: relative;
 }
 .team {
-  color: #9d74f4;
+  color: rgba(221, 81, 165, 0.8);
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
   font-size: 20px;
