@@ -40,9 +40,15 @@
       background-repeat: no-repeat;
     "
   >
-    <div class="button">
-      <div class="fiona">Fiona</div>
-    </div>
+  <div id="fionaButton" class="button">
+    <div class="fiona">Fiona</div>
+  </div>
+  
+  <script>
+    document.getElementById('fionaButton').addEventListener('click', function() {
+      window.location.href = 'Fiona/index.html'; // Target page URL with relative path
+    });
+  </script>
     <div class="_00-button">
       <div class="lora">Lora</div>
     </div>
