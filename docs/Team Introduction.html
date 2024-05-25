@@ -54,9 +54,15 @@
         <div class="assessment">Assessment</div>
         <div class="member">Member</div>
         <div class="team2">Team</div>
-        <div class="button">
+        <div id="homeButton" class="button">
           <div class="home">Home</div>
         </div>
+        
+        <script>
+          document.getElementById('homeButton').addEventListener('click', function() {
+            window.location.href = 'index.html'; // Target page URL
+          });
+        </script>
       </div>
       <div class="final-work">Final work</div>
       <div class="_4-aol2">4AOL</div>
