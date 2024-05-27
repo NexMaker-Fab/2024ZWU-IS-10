@@ -254,30 +254,6 @@
   position: relative;
   width: 979px;
 }
-.hero-image {
-  border-radius: 8px;
-  width: 400px;
-  height: 521px;
-  position: absolute;
-  right: 80px;
-  top: 128px;
-  overflow: hidden;
-}
-.frame-1 {
-  width: 686px;
-  height: 2255px;
-  position: absolute;
-  left: -513px;
-  top: -1598px;
-}
-._3-eac-4-f-7766725235-b-41539-ab-893526-e-1 {
-  width: 396px;
-  height: 501px;
-  position: absolute;
-  left: 511px;
-  top: 1609px;
-  object-fit: cover;
-}
 .navigation-footer2 {
   background: #ffffff;
   height: 217px;
@@ -381,7 +357,7 @@
   top: 8px;
   overflow: visible;
 }
-.div {
+.navigation {
   background: #ffffff;
   height: 128px;
   position: absolute;
@@ -491,4 +467,12 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+}
+.image {
+  width: 400px;
+  height: 524px;
+  position: absolute;
+  left: 1223px;
+  top: 161px;
+  object-fit: cover;
 }
