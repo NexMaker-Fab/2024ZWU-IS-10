@@ -1,0 +1,735 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 38180px;
+  position: relative;
+  overflow: hidden;
+}
+._12 {
+  width: 1236px;
+  height: 695.37px;
+  position: absolute;
+  left: 220px;
+  top: 21986px;
+  object-fit: cover;
+}
+._11 {
+  width: 1236px;
+  height: 694.57px;
+  position: absolute;
+  left: 220px;
+  top: 21194px;
+  object-fit: cover;
+}
+._10 {
+  width: 1236px;
+  height: 694.57px;
+  position: absolute;
+  left: 220px;
+  top: 22803px;
+  object-fit: cover;
+}
+.navigation {
+  background: #ffffff;
+  height: 128px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+._4-aol {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-m, 48px);
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 80px;
+  top: 56px;
+}
+.assessment {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.member {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: #000000;
+  border-radius: 8px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 150%);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.final-work {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: absolute;
+  left: 946px;
+  top: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.how-to-build-the-website {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 96px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 262px;
+  top: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 218px;
+  top: 276px;
+  width: 1236px;
+  height: 440px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 221px;
+  top: 704px;
+  width: 1236px;
+  height: 372px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-1 {
+  width: 1236px;
+  height: 81.98px;
+  position: absolute;
+  left: 221px;
+  top: 1083px;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 204px;
+  height: 33px;
+  position: absolute;
+  left: 297px;
+  top: 1095px;
+}
+.arrow-1 {
+  width: 33.02px;
+  height: 0px;
+  position: absolute;
+  left: 509.99px;
+  top: 1111.5px;
+  overflow: visible;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 154px;
+  height: 33px;
+  position: absolute;
+  left: 558px;
+  top: 1095px;
+}
+.repository-directory {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 558px;
+  top: 1095px;
+  width: 154px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2 {
+  width: 1236px;
+  height: 1425.59px;
+  position: absolute;
+  left: 221px;
+  top: 1429px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 823px;
+  height: 96px;
+  position: absolute;
+  left: 246px;
+  top: 1970px;
+}
+.rectangle-5 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 904px;
+  height: 123px;
+  position: absolute;
+  left: 239px;
+  top: 2169px;
+}
+.image-3 {
+  width: 1236px;
+  height: 428.8px;
+  position: absolute;
+  left: 221px;
+  top: 3163px;
+  object-fit: cover;
+}
+.we-would-like-to-illustrate-how-to-setup-a-repository-the-instructions-are-as-follows-first-sign-up-and-create-a-repository-on-github-com-make-it-public-in-order-to-grant-access-for-others-to-modify-add-a-readme-file-for-the-purpose-of-writing-the-website-description {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 1231px;
+  width: 1236px;
+  height: 219px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-3 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 322px;
+  height: 106px;
+  position: absolute;
+  left: 575px;
+  top: 1672px;
+}
+.rectangle-6 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 246px;
+  height: 78px;
+  position: absolute;
+  left: 1186px;
+  top: 2766px;
+}
+.rectangle-7 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 190px;
+  height: 68px;
+  position: absolute;
+  left: 1171px;
+  top: 3271px;
+}
+.rectangle-8 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 352px;
+  height: 55px;
+  position: absolute;
+  left: 557px;
+  top: 3537px;
+}
+.got-to-repository-settings-in-the-settings-sidebar-select-pages-in-git-hub-pages-under-branch-select-main-and-the-root-and-save-since-the-docs-folder-has-not-been-installed-yet-you-select-root-the-setting-will-be-changed-to-docs-later-after-docsify-install {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 2910px;
+  width: 1236px;
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.inviting-a-team-or-person-1-request-the-username-of-the-person-you-wish-to-invite-as-a-collaborator-2-access-the-primary-repository-page-by-selecting-the-repository-name-on-your-git-hub-dashboard-3-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-4-within-the-sidebar-s-access-section-choose-collaborators-and-teams-5-click-on-add-people-or-add-teams-to-the-right-of-manage-access-6-initiate-a-search-by-entering-the-name-of-the-team-or-person-git-hub-may-auto-suggest-usernames-select-the-correct-match-7-under-choose-a-role-pick-the-repository-role-for-the-team-or-person-then-select-add-name-to-repository {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 3678px;
+  width: 1236px;
+  height: 618px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-5 {
+  width: 1236px;
+  height: 601.56px;
+  position: absolute;
+  left: 221px;
+  top: 4351px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 1236px;
+  height: 604.47px;
+  position: absolute;
+  left: 221px;
+  top: 5121px;
+  object-fit: cover;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 221px;
+  top: 5771px;
+  width: 1236px;
+  height: 693px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span3 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span4 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span5 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-6 {
+  width: 1236px;
+  height: 601.25px;
+  position: absolute;
+  left: 221px;
+  top: 6435px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 1236px;
+  height: 601.25px;
+  position: absolute;
+  left: 221px;
+  top: 6435px;
+  object-fit: cover;
+}
+.in-our-website-one-member-is-the-admin-and-other-members-have-the-maintain-role {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 221px;
+  top: 7142px;
+  width: 1236px;
+  height: 146px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-9 {
+  width: 1236px;
+  height: 840.31px;
+  position: absolute;
+  left: 221px;
+  top: 8449px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 207px;
+  height: 33px;
+  position: absolute;
+  left: 487px;
+  top: 8577px;
+}
+.rectangle-10 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 61px;
+  height: 30px;
+  position: absolute;
+  left: 903px;
+  top: 6703px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-12 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 511px;
+  height: 43px;
+  position: absolute;
+  left: 566px;
+  top: 5608px;
+}
+.rectangle-16 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 318px;
+  height: 43px;
+  position: absolute;
+  left: 663px;
+  top: 5245px;
+}
+.rectangle-17 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 84px;
+  height: 44px;
+  position: absolute;
+  left: 845px;
+  top: 4400px;
+}
+.rectangle-18 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 93px;
+  height: 43px;
+  position: absolute;
+  left: 1121px;
+  top: 4646px;
+}
+.rectangle-19 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 200px;
+  height: 32px;
+  position: absolute;
+  left: 312px;
+  top: 4517px;
+}
+.rectangle-15 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 498px;
+  height: 53px;
+  position: absolute;
+  left: 566px;
+  top: 5493px;
+}
+.rectangle-11 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 93px;
+  height: 32px;
+  position: absolute;
+  left: 1061px;
+  top: 6641px;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 221px;
+  top: 8151px;
+  width: 1236px;
+  height: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span2 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-8 {
+  width: 1236px;
+  height: 599.96px;
+  position: absolute;
+  left: 221px;
+  top: 7325px;
+  object-fit: cover;
+}
+.rectangle-13 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 93px;
+  height: 35px;
+  position: absolute;
+  left: 1061px;
+  top: 7566px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-14 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 114px;
+  height: 266px;
+  position: absolute;
+  left: 1046px;
+  top: 7848px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 220px;
+  top: 9327px;
+  width: 1236px;
+  height: 617px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-10 {
+  width: 965px;
+  height: 804px;
+  position: absolute;
+  left: 220px;
+  top: 9944px;
+  object-fit: cover;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 220px;
+  top: 10825px;
+  width: 1236px;
+  height: 786px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-11 {
+  width: 1236px;
+  height: 538.13px;
+  position: absolute;
+  left: 220px;
+  top: 11611px;
+  object-fit: cover;
+}

@@ -49,11 +49,13 @@
     <div class="_00-button2">
       <div class="arduino">Arduino</div>
     </div>
-    <div class="_00-button3">
-      <div class="frame-1">
-        <div class="website-layout">Website layout</div>
-      </div>
-    </div>
+    <div id="websiteLayoutButton" class="_00-button3"> <div class="frame-1"> <div class="website-layout">Website layout</div> </div> </div>
+
+<script>
+  document.getElementById('websiteLayoutButton').addEventListener('click', function() {
+    window.location.href = 'web.html'; // Target page URL
+  });
+</script>
     <div class="_00-button4">
       <div class="frame-1">
         <div class="_4">4</div>
