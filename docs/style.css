@@ -18,7 +18,7 @@
   font-weight: 500;
   position: absolute;
   left: 200px;
-  top: 533px;
+  top: 534px;
   width: 1277px;
   height: 54px;
   display: flex;
@@ -35,10 +35,10 @@
   align-items: center;
   justify-content: center;
   width: 216px;
-  height: 79px;
+  height: 78px;
   position: absolute;
-  left: 576px;
-  top: 759px;
+  left: 577px;
+  top: 803px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -68,10 +68,10 @@
   align-items: center;
   justify-content: center;
   width: 216px;
-  height: 79px;
+  height: 78px;
   position: absolute;
-  left: 904px;
-  top: 759px;
+  left: 905px;
+  top: 803px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .assessment {
@@ -97,10 +97,10 @@
   align-items: center;
   justify-content: center;
   width: 195px;
-  height: 79px;
+  height: 78px;
   position: absolute;
-  left: 1232px;
-  top: 759px;
+  left: 1233px;
+  top: 803px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .final-work {
@@ -126,10 +126,10 @@
   align-items: center;
   justify-content: center;
   width: 216px;
-  height: 79px;
+  height: 78px;
   position: absolute;
-  left: 248px;
-  top: 759px;
+  left: 249px;
+  top: 803px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -157,16 +157,11 @@
   align-items: center;
   justify-content: flex-start;
 }
-._4-aol {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Plaster-Regular", sans-serif;
-  font-size: 165px;
-  letter-spacing: -0.02em;
-  font-weight: 400;
+._4-aol-1 {
+  width: 479px;
+  height: 109px;
   position: absolute;
-  left: 360px;
-  top: 325px;
-  width: 955px;
-  height: 244px;
+  left: 599px;
+  top: 370px;
+  object-fit: cover;
 }
