@@ -314,11 +314,19 @@
   align-items: center;
   justify-content: flex-start;
 }
-._4-aol-3 {
-  width: 117px;
-  height: 27px;
+._4-aol2 {
+  color: #fffefe;
+  text-align: center;
+  font-family: "Vt323-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
   position: absolute;
-  left: 780px;
-  top: 900px;
-  object-fit: cover;
+  left: 653px;
+  top: 890px;
+  width: 372px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
