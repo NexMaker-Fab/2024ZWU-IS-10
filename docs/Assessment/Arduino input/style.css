@@ -8,78 +8,6 @@
   position: relative;
   overflow: hidden;
 }
-._2024-05-21-08-18-2 {
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  left: 357px;
-  top: 1368px;
-  object-fit: cover;
-}
-._2024-05-21-08-18-3 {
-  width: 1236px;
-  height: 908.95px;
-  position: absolute;
-  left: 236px;
-  top: 408px;
-  object-fit: cover;
-}
-._2024-05-21-08-45-2 {
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  left: 443px;
-  top: 6139px;
-  object-fit: cover;
-}
-._2024-05-21-08-45-3 {
-  width: 1197px;
-  height: 829px;
-  position: absolute;
-  left: 250px;
-  top: 1287px;
-  object-fit: cover;
-}
-._2024-05-21-10-00-1 {
-  width: 1236px;
-  height: 721.18px;
-  position: absolute;
-  left: 248px;
-  top: 6691px;
-  object-fit: cover;
-}
-._2024-05-21-10-02-2 {
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  left: 1304px;
-  top: 3855px;
-  object-fit: cover;
-}
-._2024-05-21-10-02-3 {
-  width: 1236px;
-  height: 1196.47px;
-  position: absolute;
-  left: 248px;
-  top: 7369px;
-  object-fit: cover;
-}
-._2024-05-21-10-18-2 {
-  width: 1236px;
-  height: 0px;
-  position: absolute;
-  left: 865px;
-  top: 8488px;
-  object-fit: cover;
-}
-._2024-05-21-10-18-3 {
-  width: 1236px;
-  height: 493.55px;
-  position: absolute;
-  left: 248px;
-  top: 8489px;
-  object-fit: cover;
-}
 .arduino-input {
   color: #000000;
   text-align: center;
@@ -128,60 +56,20 @@
   align-items: center;
   justify-content: center;
 }
-._2024-05-21-10-00-2 {
-  width: 1236px;
-  height: 934.82px;
-  position: absolute;
-  left: 236px;
-  top: 5794px;
-  object-fit: cover;
-}
-.img-6768-1 {
+.input-3 {
   width: 1236px;
   height: 1661.04px;
   position: absolute;
   left: 236px;
-  top: 2223px;
+  top: 2194px;
   object-fit: cover;
 }
-.img-6767-1 {
+.input-4 {
   width: 1236px;
   height: 1649.44px;
   position: absolute;
   left: 236px;
-  top: 3822px;
-  object-fit: cover;
-}
-._2024-05-30-14-16-1 {
-  width: 1236px;
-  height: 639.33px;
-  position: absolute;
-  left: 221px;
-  top: 21689px;
-  object-fit: cover;
-}
-._2024-05-30-14-15-1 {
-  width: 1236px;
-  height: 641.02px;
-  position: absolute;
-  left: 221px;
-  top: 22329px;
-  object-fit: cover;
-}
-._2024-05-30-14-24-1 {
-  width: 1236px;
-  height: 602.39px;
-  position: absolute;
-  left: 248px;
-  top: 19217px;
-  object-fit: cover;
-}
-._2024-05-30-14-24-2 {
-  width: 1236px;
-  height: 802.75px;
-  position: absolute;
-  left: 248px;
-  top: 19819px;
+  top: 3855px;
   object-fit: cover;
 }
 .the-circle-of-processing-is-controlled-according-to-the-size-of-the-arduino-motor {
@@ -199,14 +87,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-._2024-05-30-14-36-1 {
-  width: 1236px;
-  height: 795.6px;
-  position: absolute;
-  left: 221px;
-  top: 20893px;
-  object-fit: cover;
 }
 .programming {
   color: #000000;
@@ -272,20 +152,12 @@
   align-items: center;
   justify-content: flex-start;
 }
-._2024-05-28-10-50-1 {
-  width: 1236px;
-  height: 746.82px;
+.input-10 {
+  width: 1076px;
+  height: 696.58px;
   position: absolute;
-  left: 203px;
-  top: 9523px;
-  object-fit: cover;
-}
-.img-6770-1 {
-  width: 1236px;
-  height: 800.17px;
-  position: absolute;
-  left: 203px;
-  top: 10269.82px;
+  left: 301px;
+  top: 10248px;
   object-fit: cover;
 }
 .reference-from-keyboard-functions-by-martin-gomez {
@@ -298,7 +170,7 @@
   position: absolute;
   left: 221px;
   top: 18447px;
-  width: 1236px;
+  width: 1243px;
   height: 229px;
   display: flex;
   align-items: center;
@@ -446,4 +318,100 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+}
+._42 {
+  width: 1051px;
+  height: 729px;
+  position: absolute;
+  left: 345px;
+  top: 428px;
+  object-fit: cover;
+}
+._41 {
+  width: 955px;
+  height: 670px;
+  position: absolute;
+  left: 393px;
+  top: 1283px;
+  object-fit: cover;
+}
+._40 {
+  width: 1076px;
+  height: 812.95px;
+  position: absolute;
+  left: 301px;
+  top: 5841px;
+  object-fit: cover;
+}
+._39 {
+  width: 1076px;
+  height: 628.36px;
+  position: absolute;
+  left: 301px;
+  top: 6676px;
+  object-fit: cover;
+}
+._38 {
+  width: 1076px;
+  height: 1041.11px;
+  position: absolute;
+  left: 301px;
+  top: 7407px;
+  object-fit: cover;
+}
+._37 {
+  width: 1076px;
+  height: 430.4px;
+  position: absolute;
+  left: 301px;
+  top: 8448px;
+  object-fit: cover;
+}
+._36 {
+  width: 1076px;
+  height: 650.33px;
+  position: absolute;
+  left: 301px;
+  top: 9519px;
+  object-fit: cover;
+}
+._35 {
+  width: 1076px;
+  height: 698.83px;
+  position: absolute;
+  left: 308px;
+  top: 20009px;
+  object-fit: cover;
+}
+._34 {
+  width: 1076px;
+  height: 524.41px;
+  position: absolute;
+  left: 221px;
+  top: 19341px;
+  object-fit: cover;
+}
+._33 {
+  width: 1076px;
+  height: 692.61px;
+  position: absolute;
+  left: 308px;
+  top: 20922px;
+  object-fit: cover;
+}
+._32 {
+  width: 1057.5px;
+  height: 547px;
+  position: absolute;
+  left: 317px;
+  top: 21728px;
+  object-fit: cover;
+}
+._31 {
+  width: 1063px;
+  height: 541.5px;
+  position: absolute;
+  left: 308px;
+  top: 22388px;
+  object-fit: cover;
 }
