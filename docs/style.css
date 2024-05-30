@@ -9,21 +9,13 @@
   position: relative;
   overflow: hidden;
 }
-.welcome-to-our-group {
-  color: #ffffff;
-  text-align: center;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 500;
+._1 {
+  width: 1677px;
+  height: 957px;
   position: absolute;
-  left: 200px;
-  top: 534px;
-  width: 1277px;
-  height: 54px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
 }
 .button {
   background: rgba(252, 254, 255, 0.44);
@@ -156,12 +148,4 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-._4-aol {
-  width: 479px;
-  height: 109px;
-  position: absolute;
-  left: 599px;
-  top: 370px;
-  object-fit: cover;
 }
