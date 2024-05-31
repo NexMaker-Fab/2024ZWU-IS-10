@@ -4,7 +4,7 @@
 }
 .div {
   background: #ffffff;
-  height: 38180px;
+  height: 26154px;
   position: relative;
   overflow: hidden;
 }
@@ -983,7 +983,7 @@
   left: 321px;
   top: 15646px;
   width: 1027px;
-  height: 1141px;
+  height: 1239px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1001,4 +1001,314 @@
   font-size: 32px;
   line-height: 150%;
   font-weight: 400;
+}
+.image-12 {
+  width: 1027px;
+  height: 705.75px;
+  position: absolute;
+  left: 321px;
+  top: 16870px;
+  object-fit: cover;
+}
+.rectangle-20 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 259px;
+  height: 42px;
+  position: absolute;
+  left: 321px;
+  top: 16908px;
+}
+.rectangle-21 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 259px;
+  height: 51px;
+  position: absolute;
+  left: 817px;
+  top: 16903px;
+}
+.rectangle-22 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 259px;
+  height: 176px;
+  position: absolute;
+  left: 321px;
+  top: 17370px;
+}
+.rectangle-24 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 259px;
+  height: 40px;
+  position: absolute;
+  left: 321px;
+  top: 17536px;
+}
+.rectangle-23 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 638px;
+  height: 112px;
+  position: absolute;
+  left: 642px;
+  top: 17119px;
+}
+._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 321px;
+  top: 17745px;
+  width: 1027px;
+  height: 519px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 600;
+}
+._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design-span3 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design-span4 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-13 {
+  width: 1027px;
+  height: 549.02px;
+  position: absolute;
+  left: 321px;
+  top: 18333px;
+  object-fit: cover;
+}
+.b-we-toggle-between-design-mode-and-developer-mode-in-figma-design-mode-allows-us-to-add-elements-such-as-text-images-shapes-layers-colours-etc-examples-design-mode-design-mode-toggle-for-inserting-elements-in-the-frame-to-design-the-page-in-design-mode-we-toggle-between-elemental-tools-tabs-to-organize-them-and-the-design-tools-sidebar-to-edit {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 18951px;
+  width: 1027px;
+  height: 578px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.b-we-toggle-between-design-mode-and-developer-mode-in-figma-design-mode-allows-us-to-add-elements-such-as-text-images-shapes-layers-colours-etc-examples-design-mode-design-mode-toggle-for-inserting-elements-in-the-frame-to-design-the-page-in-design-mode-we-toggle-between-elemental-tools-tabs-to-organize-them-and-the-design-tools-sidebar-to-edit-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.b-we-toggle-between-design-mode-and-developer-mode-in-figma-design-mode-allows-us-to-add-elements-such-as-text-images-shapes-layers-colours-etc-examples-design-mode-design-mode-toggle-for-inserting-elements-in-the-frame-to-design-the-page-in-design-mode-we-toggle-between-elemental-tools-tabs-to-organize-them-and-the-design-tools-sidebar-to-edit-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-14 {
+  width: 1027px;
+  height: 547.41px;
+  position: absolute;
+  left: 321px;
+  top: 19598px;
+  object-fit: cover;
+}
+.image-15 {
+  width: 1027px;
+  height: 547.41px;
+  position: absolute;
+  left: 321px;
+  top: 20653px;
+  object-fit: cover;
+}
+.below-is-an-illustration-of-how-we-created-the-page-and-various-tools-used-in-figma-by-adding-elements-such-as-the-frame-for-the-page-shapes-and-texts-are-layered-for-the-buttons-on-the-right-sidebar-we-can-view-and-change-various-parameters-in-the-design-we-can-align-the-text-buttons-shapes-use-creation-tools-to-make-icons-edit-texts-colors-and-grids-of-the-page-we-played-with-these-various-features-and-reach-the-result-of-the-prototype-for-the-landing-page-and-other-supporting-website-pages {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 20214px;
+  width: 1027px;
+  height: 439px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.developer-mode-developer-mode-enables-us-to-modify-the-and-preview-technical-aspects-of-the-ui-design-we-then-take-the-code-export-it-to-vscode-for-refining-and-adding-interactive-features-such-as-links-and-buttons-to-connected-pages-figma-developer-mode-example-a-plugin-called-auto-html-was-used-to-generate-code-according-to-the-setup-of-the-page-layers-and-elements-it-enables-us-to-view-html-css-and-js-of-the-page-which-can-be-extracted-by-copying-the-code-into-a-new-file-or-by-downloading-a-compressed-folder-containing-the-respective-html-and-css-files-vscode-import-example {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 21200px;
+  width: 1027px;
+  height: 729px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-16 {
+  width: 1027px;
+  height: 549.42px;
+  position: absolute;
+  left: 324px;
+  top: 21958px;
+  object-fit: cover;
+}
+.html-and-css-files-pushed-to-the-repository-and-viewed-in-vscode-this-is-where-we-will-edit-elements-of-the-pages-and-continuously-add-information-over-the-course-of-the-assignments-how-to-make-a-web-page-using-figma-for-a-simple-instruction-using-figma-for-webpage-building-1-on-the-figma-homepage-we-select-design-file-to-start-designing-our-page {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 321px;
+  top: 22536px;
+  width: 1027px;
+  height: 573px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.html-and-css-files-pushed-to-the-repository-and-viewed-in-vscode-this-is-where-we-will-edit-elements-of-the-pages-and-continuously-add-information-over-the-course-of-the-assignments-how-to-make-a-web-page-using-figma-for-a-simple-instruction-using-figma-for-webpage-building-1-on-the-figma-homepage-we-select-design-file-to-start-designing-our-page-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.html-and-css-files-pushed-to-the-repository-and-viewed-in-vscode-this-is-where-we-will-edit-elements-of-the-pages-and-continuously-add-information-over-the-course-of-the-assignments-how-to-make-a-web-page-using-figma-for-a-simple-instruction-using-figma-for-webpage-building-1-on-the-figma-homepage-we-select-design-file-to-start-designing-our-page-span2 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.html-and-css-files-pushed-to-the-repository-and-viewed-in-vscode-this-is-where-we-will-edit-elements-of-the-pages-and-continuously-add-information-over-the-course-of-the-assignments-how-to-make-a-web-page-using-figma-for-a-simple-instruction-using-figma-for-webpage-building-1-on-the-figma-homepage-we-select-design-file-to-start-designing-our-page-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._2-setup-your-canvas-on-right-by-selecting-the-type-of-device-you-d-like-to-design-on-since-we-are-working-on-a-web-page-we-select-desktop-for-our-frame-canvas-dimensions {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 23675px;
+  width: 1027px;
+  height: 179px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-18 {
+  width: 1027px;
+  height: 547.01px;
+  position: absolute;
+  left: 321px;
+  top: 23109px;
+  object-fit: cover;
+}
+.image-17 {
+  width: 1027px;
+  height: 547.01px;
+  position: absolute;
+  left: 324px;
+  top: 23858px;
+  object-fit: cover;
+}
+.below-is-what-is-an-example-of-the-setup-for-our-canvas-selecting-frame-sets-up-its-own-layers-where-we-will-setup-the-rest-of-the-page {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 24455px;
+  width: 1027px;
+  height: 177px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-19 {
+  width: 1027px;
+  height: 526.58px;
+  position: absolute;
+  left: 321px;
+  top: 24632px;
+  object-fit: cover;
+}
+._3-we-are-adding-text-these-are-simple-texts-on-the-login-page-aimed-at-attracting-the-attention-of-visiting-users-for-modifying-text-we-select-the-text-box-on-the-right-and-adjust-various-elements-including-size-font-type-paragraph-alignment-etc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 25209px;
+  width: 1027px;
+  height: 249px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-20 {
+  width: 1027px;
+  height: 526.94px;
+  position: absolute;
+  left: 321px;
+  top: 25487px;
+  object-fit: cover;
 }

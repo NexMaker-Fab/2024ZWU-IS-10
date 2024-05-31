@@ -223,6 +223,7 @@
   gap: var(--spacing-m, 48px);
   align-items: center;
   justify-content: flex-end;
+  width: 693px;
   position: absolute;
   right: 80px;
   top: 56px;
