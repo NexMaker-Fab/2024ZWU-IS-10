@@ -1,0 +1,1004 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 38180px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation {
+  background: #ffffff;
+  height: 128px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+._4-aol {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-m, 48px);
+  align-items: center;
+  justify-content: flex-end;
+  width: 671px;
+  position: absolute;
+  right: 80px;
+  top: 56px;
+}
+.assessment {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.member {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: #000000;
+  border-radius: 8px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 150%);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.final-work {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: absolute;
+  left: 946px;
+  top: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.how-to-build-the-website {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 64px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 346px;
+  top: 259px;
+  width: 967px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 326px;
+  top: 392px;
+  width: 1027px;
+  height: 503px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.step-1-tools-needed-installing-all-the-tools-necessary-for-the-webpage-build-git-gitlab-control-github-webpage-server-github-desktop-to-push-or-pull-from-the-github-server-and-to-the-github-server-v-scode-for-writing-our-documents-and-code-for-the-website-and-its-pages-html-language-to-write-the-website-css-corresponds-with-html-used-to-style-the-website-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 326px;
+  top: 914px;
+  width: 1027px;
+  height: 372px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-2-page-setup-before-we-begin-it-is-worth-noting-that-the-git-hub-repository-had-already-been-setup-for-our-team-website-by-our-supervisor-it-enables-us-to-upload-our-website-pages-to-a-server-for-us-to-edit-as-team-and-also-setup-for-others-to-open-and-view-the-work-we-have-done-during-the-course-of-the-module-repository-setup-for-nexmaker-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-1 {
+  width: 1027px;
+  height: 82px;
+  position: absolute;
+  left: 326px;
+  top: 1293px;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 169px;
+  height: 33px;
+  position: absolute;
+  left: 389px;
+  top: 1305px;
+}
+.arrow-1 {
+  width: 28px;
+  height: 0px;
+  position: absolute;
+  left: 566px;
+  top: 1321px;
+  overflow: visible;
+}
+.rectangle-2 {
+  background: #d9d9d9;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 128px;
+  height: 33px;
+  position: absolute;
+  left: 606px;
+  top: 1305px;
+}
+.repository-directory {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 606px;
+  top: 1305px;
+  width: 128px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2 {
+  width: 1024px;
+  height: 1233.3px;
+  position: absolute;
+  left: 308px;
+  top: 1630px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 685px;
+  height: 96px;
+  position: absolute;
+  left: 308px;
+  top: 2094px;
+}
+.rectangle-5 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 751px;
+  height: 123px;
+  position: absolute;
+  left: 308px;
+  top: 2247px;
+}
+.image-3 {
+  width: 1027px;
+  height: 429px;
+  position: absolute;
+  left: 324px;
+  top: 3283px;
+  object-fit: cover;
+}
+.we-would-like-to-illustrate-how-to-setup-a-repository-the-instructions-are-as-follows-first-sign-up-and-create-a-repository-on-github-com-make-it-public-in-order-to-grant-access-for-others-to-modify-add-a-readme-file-for-the-purpose-of-writing-the-website-description {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 326px;
+  top: 1417px;
+  width: 1027px;
+  height: 243px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-3 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 292px;
+  height: 98px;
+  position: absolute;
+  left: 571px;
+  top: 1828px;
+}
+.rectangle-6 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 205px;
+  height: 78px;
+  position: absolute;
+  left: 1127px;
+  top: 2785px;
+}
+.rectangle-7 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 158px;
+  height: 68px;
+  position: absolute;
+  left: 1177px;
+  top: 3396px;
+}
+.rectangle-8 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 5px;
+  width: 292px;
+  height: 55px;
+  position: absolute;
+  left: 590px;
+  top: 3657px;
+}
+.got-to-repository-settings-in-the-settings-sidebar-select-pages-in-git-hub-pages-under-branch-select-main-and-the-root-and-save-since-the-docs-folder-has-not-been-installed-yet-you-select-root-the-setting-will-be-changed-to-docs-later-after-docsify-install {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 308px;
+  top: 2936px;
+  width: 1027px;
+  height: 207px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.inviting-a-team-or-person-1-request-the-username-of-the-person-you-wish-to-invite-as-a-collaborator-2-access-the-primary-repository-page-by-selecting-the-repository-name-on-your-git-hub-dashboard-3-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-4-within-the-sidebar-s-access-section-choose-collaborators-and-teams-5-click-on-add-people-or-add-teams-to-the-right-of-manage-access-6-initiate-a-search-by-entering-the-name-of-the-team-or-person-git-hub-may-auto-suggest-usernames-select-the-correct-match-7-under-choose-a-role-pick-the-repository-role-for-the-team-or-person-then-select-add-name-to-repository {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 3787px;
+  width: 1027px;
+  height: 699px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-5 {
+  width: 1027px;
+  height: 602px;
+  position: absolute;
+  left: 326px;
+  top: 4561px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 1027px;
+  height: 604px;
+  position: absolute;
+  left: 324px;
+  top: 5250px;
+  object-fit: cover;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 324px;
+  top: 5930px;
+  width: 1027px;
+  height: 693px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span3 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span4 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.removing-access-step-1-navigate-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-click-remove-next-to-the-team-or-person-to-revoke-their-access-note-confirm-the-action-if-prompted-changing-permissions-step-1-go-to-the-main-repository-page-step-2-click-on-settings-under-your-repository-name-if-the-settings-tab-isn-t-visible-access-it-through-the-dropdown-menu-step-3-in-the-sidebar-s-access-section-go-to-collaborators-teams-step-4-within-manage-access-adjust-the-role-by-selecting-a-new-role-span5 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-6 {
+  width: 1027px;
+  height: 601px;
+  position: absolute;
+  left: 326px;
+  top: 6645px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 1027px;
+  height: 601px;
+  position: absolute;
+  left: 326px;
+  top: 6645px;
+  object-fit: cover;
+}
+.in-our-website-one-member-is-the-admin-and-other-members-have-the-maintain-role {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 7331px;
+  width: 1027px;
+  height: 146px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-9 {
+  width: 1027px;
+  height: 840px;
+  position: absolute;
+  left: 324px;
+  top: 8550px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 172px;
+  height: 33px;
+  position: absolute;
+  left: 485px;
+  top: 8680px;
+}
+.rectangle-10 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 71px;
+  height: 34px;
+  position: absolute;
+  left: 897px;
+  top: 6917px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-12 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 504px;
+  height: 50px;
+  position: absolute;
+  left: 563px;
+  top: 5732px;
+}
+.rectangle-16 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 284px;
+  height: 43px;
+  position: absolute;
+  left: 675px;
+  top: 5369px;
+}
+.rectangle-17 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 91px;
+  height: 44px;
+  position: absolute;
+  left: 845px;
+  top: 4610px;
+}
+.rectangle-18 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 104px;
+  height: 43px;
+  position: absolute;
+  left: 1115px;
+  top: 4856px;
+}
+.rectangle-19 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 175px;
+  height: 32px;
+  position: absolute;
+  left: 326px;
+  top: 4731px;
+}
+.rectangle-15 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 469px;
+  height: 53px;
+  position: absolute;
+  left: 563px;
+  top: 5617px;
+}
+.rectangle-11 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 78px;
+  height: 32px;
+  position: absolute;
+  left: 1071px;
+  top: 6851px;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 324px;
+  top: 8185px;
+  width: 1027px;
+  height: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span2 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.step-3-local-setup-1-github-desktop-install-github-desktop-and-sync-your-account-clone-your-repository-created-earlier-and-open-in-vs-code-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-8 {
+  width: 1027px;
+  height: 600px;
+  position: absolute;
+  left: 324px;
+  top: 7492px;
+  object-fit: cover;
+}
+.rectangle-13 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 78px;
+  height: 35px;
+  position: absolute;
+  left: 1070px;
+  top: 7731px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-14 {
+  background: rgba(217, 217, 217, 0);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 3px;
+  width: 95px;
+  height: 266px;
+  position: absolute;
+  left: 1053px;
+  top: 8025px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 9452px;
+  width: 1027px;
+  height: 661px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+._2-vs-code-local-settings-open-github-desktop-clone-repository-created-earlier-and-open-it-in-visual-studio-code-example-setting-index-html-to-set-an-index-html-file-follow-these-simple-steps-1-create-a-new-folder-on-your-computer-where-you-want-to-store-your-website-files-2-open-a-text-editor-such-as-notepad-or-vs-code-and-create-a-new-file-3-save-the-file-with-the-name-index-html-in-the-folder-you-created-earlier-make-sure-to-save-it-with-the-html-extension-this-is-an-example-of-how-files-and-folders-are-organized-in-v-scode-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-10 {
+  width: 802px;
+  height: 804px;
+  position: absolute;
+  left: 324px;
+  top: 10140px;
+  object-fit: cover;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 325px;
+  top: 11035px;
+  width: 1027px;
+  height: 1343px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span4 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span5 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span6 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span7 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span8 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span9 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span10 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file-doctype-html-6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag-html-html-7-inside-the-html-tags-add-opening-and-closing-head-tags-head-head-8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag-title-your-website-title-title-9-after-closing-the-head-tags-add-opening-and-closing-body-tags-body-body-10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example-span11 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.image-11 {
+  width: 1027px;
+  height: 538px;
+  position: absolute;
+  left: 323px;
+  top: 12399px;
+  object-fit: cover;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 325px;
+  top: 12987px;
+  width: 1027px;
+  height: 2639px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span4 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span5 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span6 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span7 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span8 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span9 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span10 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span11 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span12 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span13 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span14 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span15 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span16 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span17 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span18 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span19 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span20 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span21 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span22 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span23 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span24 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6-lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-links-use-the-a-tag-to-create-hyperlinks-a-href-https-www-example-com-visit-example-com-a-add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-p-this-is-a-paragraph-of-text-on-my-web-page-p-add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-img-src-path-to-your-image-jpg-alt-description-of-the-image-divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p-save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span25 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.write-document-and-save-all-under-v-scode-push-to-github-1-click-on-the-clone-a-repository-button-or-go-to-file-clone-repository-2-select-the-repository-you-want-to-work-with-from-the-list-or-enter-its-url-3-choose-a-local-path-where-you-want-to-clone-the-repository-on-your-computer-4-click-on-the-clone-button-to-download-a-copy-of-the-repository-to-your-local-machine-5-once-cloned-you-can-make-changes-to-files-within-the-repository-folder-on-your-computer-using-any-text-editor-or-ide-6-open-the-git-hub-desktop-app-and-you-will-see-a-list-of-changed-files-under-changes-7-review-and-select-which-files-you-want-to-commit-by-checking-their-checkboxes-8-enter-a-brief-summary-of-your-changes-in-the-summary-field-and-provide-an-optional-description-in-the-description-field-9-click-on-the-commit-button-to-save-your-changes-locally-10-to-push-your-changes-to-git-hub-click-on-push-origin-at-the-top-right-corner-of-the-app-window-that-s-it-your-changes-are-now-pushed-to-git-hub-using-the-git-hub-desktop-app {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 15646px;
+  width: 1027px;
+  height: 1141px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.write-document-and-save-all-under-v-scode-push-to-github-1-click-on-the-clone-a-repository-button-or-go-to-file-clone-repository-2-select-the-repository-you-want-to-work-with-from-the-list-or-enter-its-url-3-choose-a-local-path-where-you-want-to-clone-the-repository-on-your-computer-4-click-on-the-clone-button-to-download-a-copy-of-the-repository-to-your-local-machine-5-once-cloned-you-can-make-changes-to-files-within-the-repository-folder-on-your-computer-using-any-text-editor-or-ide-6-open-the-git-hub-desktop-app-and-you-will-see-a-list-of-changed-files-under-changes-7-review-and-select-which-files-you-want-to-commit-by-checking-their-checkboxes-8-enter-a-brief-summary-of-your-changes-in-the-summary-field-and-provide-an-optional-description-in-the-description-field-9-click-on-the-commit-button-to-save-your-changes-locally-10-to-push-your-changes-to-git-hub-click-on-push-origin-at-the-top-right-corner-of-the-app-window-that-s-it-your-changes-are-now-pushed-to-git-hub-using-the-git-hub-desktop-app-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.write-document-and-save-all-under-v-scode-push-to-github-1-click-on-the-clone-a-repository-button-or-go-to-file-clone-repository-2-select-the-repository-you-want-to-work-with-from-the-list-or-enter-its-url-3-choose-a-local-path-where-you-want-to-clone-the-repository-on-your-computer-4-click-on-the-clone-button-to-download-a-copy-of-the-repository-to-your-local-machine-5-once-cloned-you-can-make-changes-to-files-within-the-repository-folder-on-your-computer-using-any-text-editor-or-ide-6-open-the-git-hub-desktop-app-and-you-will-see-a-list-of-changed-files-under-changes-7-review-and-select-which-files-you-want-to-commit-by-checking-their-checkboxes-8-enter-a-brief-summary-of-your-changes-in-the-summary-field-and-provide-an-optional-description-in-the-description-field-9-click-on-the-commit-button-to-save-your-changes-locally-10-to-push-your-changes-to-git-hub-click-on-push-origin-at-the-top-right-corner-of-the-app-window-that-s-it-your-changes-are-now-pushed-to-git-hub-using-the-git-hub-desktop-app-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
