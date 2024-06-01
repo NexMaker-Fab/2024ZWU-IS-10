@@ -1,0 +1,105 @@
+<div class="input">
+  <div class="arduino-input">Arduino Input</div>
+  <div class="arduino-input">Arduino Input</div>
+  <div class="_1-2-ultrasonic-sensor">1-2.Ultrasonic sensor</div>
+  <img class="input-3" src="input-30.png" />
+  <img class="input-4" src="input-40.png" />
+  <div class="_1">
+    <div class="items">
+      <div class="assessment">Assessment</div>
+      <div class="member">Member</div>
+      <div class="team">Team</div>
+      <div class="button">
+        <div class="home">Home</div>
+      </div>
+    </div>
+    <div class="final-work">Final work</div>
+    <div class="_4-aol">4AOL</div>
+  </div>
+  <img class="_42" src="_420.png" />
+  <img class="_41" src="_410.png" />
+  <img class="_40" src="_400.png" />
+  <img class="_39" src="_390.png" />
+  <img class="_38" src="_380.png" />
+  <img class="_37" src="_370.png" />
+  <div class="_1-basic-knowledge">1.Basic knowledge：</div>
+  <div class="rectangle-35"></div>
+  <div class="_2-sound-sensor-to-control-led">
+    2.Sound sensor to control LED:
+  </div>
+  <div class="_3-interpretations-of-connection">
+    3.Interpretations of connection:
+  </div>
+  <div class="introduction">Introduction:</div>
+  <div class="code">Code:</div>
+  <div
+    class="clap-to-the-sound-sensor-led-will-turn-on-blow-to-the-sound-sensor-led-turn-off"
+  >
+    Clap to the Sound sensor,LED will turn on.Blow to the sound sensor,LED turn
+    off.
+  </div>
+  <div
+    class="const-int-sound-dopin-2-2-const-int-red-pin-13-led-unsigned-long-duration-void-setup-serial-beg-in-115200-pin-mode-sound-dopin-input-pin-mode-red-pin-output-led-13-digital-write-red-pin-low-led-void-loop-duration-pulse-in-long-sound-dopin-high-if-duration-200-serial-println-wind-wind-digital-write-red-pin-low-led-delay-500-if-duration-0-duration-200-serial-println-hand-hand-digital-write-red-pin-high-led-delay-500-else-serial-println-duration-delay-1"
+  >
+    const int soundDOPIN = 2;//声音从2角输入
+    <br />
+    const int redPin = 13;//LED的物理位置
+    <br />
+    unsigned long duration;//定义持续时间
+    <br />
+    <br />
+    void setup() &lcub;//初始化设置
+    <br />
+    Serial.begßin(115200);//发送数据的波特率
+    <br />
+    pinMode(soundDOPIN, INPUT);//定义引脚的模式
+    <br />
+    pinMode(redPin, OUTPUT);//定义LED的引脚为输出13
+    <br />
+    digitalWrite(redPin, LOW);//把LED熄灭为初始值
+    <br />
+    &rcub;
+    <br />
+    void loop() &lcub;
+    <br />
+    duration = pulseInLong(soundDOPIN, HIGH);//知道脉冲有多宽，转变为时间单位
+    <br />
+    if (duration&gt;200)
+    <br />
+    &lcub;
+    <br />
+    Serial.println(&quot;wind&quot;);//输出字符wind
+    <br />
+    digitalWrite(redPin, LOW);//吹气LED熄灭
+    <br />
+    delay(500);
+    <br />
+    &rcub;
+    <br />
+    if (duration&gt;0 &amp; duration&lt;200)&lcub;//判断
+    <br />
+    Serial.println(&quot;hand&quot;);//输出hand
+    <br />
+    digitalWrite(redPin, HIGH);//拍手LED亮
+    <br />
+    delay(500);
+    <br />
+    &rcub;
+    <br />
+    else Serial.println(duration);//输出脉冲宽度数值
+    <br />
+    delay(1);//
+    <br />
+    &rcub;
+  </div>
+  <img class="img-6827-1" src="img-6827-10.png" />
+  <div class="rectangle-55"></div>
+  <div class="rectangle-56"></div>
+  <div class="_5-v">5V</div>
+  <div class="d-0-2">D0接信号角2</div>
+  <div class="g">接G</div>
+  <div class="_13">黑色长接13角</div>
+  <div class="g2">白色短接G</div>
+  <div class="effect-display">Effect Display:</div>
+  <img class="gif-1" src="gif-10.png" />
+</div>

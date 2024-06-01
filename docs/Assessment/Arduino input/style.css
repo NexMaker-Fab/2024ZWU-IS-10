@@ -1,10 +1,10 @@
-.procressing,
-.procressing * {
+.input,
+.input * {
   box-sizing: border-box;
 }
-.procressing {
+.input {
   background: #ffffff;
-  height: 23445px;
+  height: 15600px;
   position: relative;
   overflow: hidden;
 }
@@ -24,189 +24,37 @@
   align-items: center;
   justify-content: center;
 }
-.basic-knowledge {
+._1-2-ultrasonic-sensor {
   color: #000000;
-  text-align: center;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 60px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 60px;
-  top: 284px;
-  width: 1153px;
-  height: 144px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.ultrasonic-sensor {
-  color: #000000;
-  text-align: center;
+  text-align: left;
   font-family: "Inter-SemiBold", sans-serif;
-  font-size: 80px;
+  font-size: 55px;
   line-height: 150%;
   font-weight: 600;
   position: absolute;
-  left: 208px;
-  top: 5581px;
-  width: 1262px;
+  left: 233px;
+  top: 6081px;
+  width: 831px;
   height: 158px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .input-3 {
   width: 1236px;
   height: 1661.04px;
   position: absolute;
-  left: 236px;
-  top: 2194px;
+  left: 233px;
+  top: 2723px;
   object-fit: cover;
 }
 .input-4 {
   width: 1236px;
   height: 1649.44px;
   position: absolute;
-  left: 236px;
-  top: 3855px;
+  left: 233px;
+  top: 4384px;
   object-fit: cover;
-}
-.the-circle-of-processing-is-controlled-according-to-the-size-of-the-arduino-motor {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 55px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 253px;
-  top: 18830px;
-  width: 1172px;
-  height: 214px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.programming {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 55px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 221px;
-  top: 19104px;
-  width: 455px;
-  height: 93px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.analog-circuit-connection {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 55px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 221px;
-  top: 20754px;
-  width: 756px;
-  height: 93px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.processing-use-keyboard-to-interactive {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 80px;
-  line-height: 150%;
-  font-weight: 600;
-  position: absolute;
-  left: 278px;
-  top: 9158px;
-  width: 1122px;
-  height: 288px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.keyboard-functions-by-martin-gomez-click-on-the-window-to-give-it-focus-and-press-the-letter-keys-to-type-colors-the-keyboard-function-key-pressed-is-called-whenever-a-key-is-pressed-key-released-is-another-keyboard-function-that-is-called-when-a-key-is-released-original-color-typewriter-concept-by-john-maeda-int-max-height-40-int-min-height-20-int-letter-height-max-height-height-of-the-letters-int-letter-width-20-width-of-the-letter-int-x-letter-width-x-position-of-the-letters-int-y-0-y-position-of-the-letters-boolean-newletter-int-num-chars-26-there-are-26-characters-in-the-alphabet-color-colors-new-color-num-chars-void-setup-size-640-360-no-stroke-color-mode-hsb-num-chars-background-num-chars-2-set-a-hue-value-for-each-key-for-int-i-0-i-num-chars-i-colors-i-color-i-num-chars-num-chars-void-draw-if-newletter-true-draw-the-letter-int-y-pos-if-letter-height-max-height-y-pos-y-rect-x-y-pos-letter-width-letter-height-else-y-pos-y-min-height-rect-x-y-pos-letter-width-letter-height-fill-num-chars-2-rect-x-y-pos-min-height-letter-width-letter-height-newletter-false-void-key-pressed-if-the-key-is-between-a-65-to-z-and-a-to-z-122-if-key-a-key-z-key-a-key-z-int-key-index-if-key-z-key-index-key-a-letter-height-max-height-fill-colors-key-index-else-key-index-key-a-letter-height-min-height-fill-colors-key-index-else-fill-0-letter-height-10-newletter-true-update-the-letter-position-x-x-letter-width-wrap-horizontally-if-x-width-letter-width-x-0-y-max-height-wrap-vertically-if-y-height-letter-height-y-0-reset-y-to-0 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 50px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 228px;
-  top: 11023px;
-  width: 1236px;
-  height: 7424px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.input-10 {
-  width: 1076px;
-  height: 696.58px;
-  position: absolute;
-  left: 301px;
-  top: 10248px;
-  object-fit: cover;
-}
-.reference-from-keyboard-functions-by-martin-gomez {
-  color: #78a2ee;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 60px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 221px;
-  top: 18447px;
-  width: 1243px;
-  height: 229px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.reference-from-bilibili-10-arduino-processing-https-b-23-tv-6-s-2-sf-18 {
-  color: #78a2ee;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 55px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 169px;
-  top: 23087px;
-  width: 1373px;
-  height: 229px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.processing-with-arduino {
-  color: #000000;
-  text-align: center;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 80px;
-  line-height: 150%;
-  font-weight: 600;
-  position: absolute;
-  left: 159px;
-  top: 18629px;
-  width: 1359px;
-  height: 288px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 ._1 {
   background: #ffffff;
@@ -321,19 +169,19 @@
   justify-content: flex-start;
 }
 ._42 {
-  width: 1051px;
-  height: 729px;
+  width: 1653px;
+  height: 1147px;
   position: absolute;
-  left: 345px;
-  top: 428px;
+  left: 0px;
+  top: 446px;
   object-fit: cover;
 }
 ._41 {
-  width: 955px;
-  height: 670px;
+  width: 1501px;
+  height: 1054px;
   position: absolute;
-  left: 393px;
-  top: 1283px;
+  left: 76px;
+  top: 1623px;
   object-fit: cover;
 }
 ._40 {
@@ -341,7 +189,7 @@
   height: 812.95px;
   position: absolute;
   left: 301px;
-  top: 5841px;
+  top: 6287px;
   object-fit: cover;
 }
 ._39 {
@@ -349,7 +197,7 @@
   height: 628.36px;
   position: absolute;
   left: 301px;
-  top: 6676px;
+  top: 7122px;
   object-fit: cover;
 }
 ._38 {
@@ -357,7 +205,7 @@
   height: 1041.11px;
   position: absolute;
   left: 301px;
-  top: 7407px;
+  top: 7853px;
   object-fit: cover;
 }
 ._37 {
@@ -365,54 +213,258 @@
   height: 430.4px;
   position: absolute;
   left: 301px;
-  top: 8448px;
+  top: 8894px;
   object-fit: cover;
 }
-._36 {
-  width: 1076px;
-  height: 650.33px;
+._1-basic-knowledge {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
   position: absolute;
-  left: 301px;
-  top: 9519px;
+  left: 165px;
+  top: 302px;
+  width: 624px;
+  height: 144px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-35 {
+  background: #f1f1f1;
+  width: 1565px;
+  height: 2274px;
+  position: absolute;
+  left: 56px;
+  top: 9940px;
+}
+._2-sound-sensor-to-control-led {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 163px;
+  top: 9354px;
+  width: 1214px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3-interpretations-of-connection {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 56px;
+  top: 12251px;
+  width: 1214px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.introduction {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 163px;
+  top: 9480px;
+  width: 480px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.code {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 163px;
+  top: 9814px;
+  width: 480px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.clap-to-the-sound-sensor-led-will-turn-on-blow-to-the-sound-sensor-led-turn-off {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 9563px;
+  width: 1442px;
+  height: 251px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.const-int-sound-dopin-2-2-const-int-red-pin-13-led-unsigned-long-duration-void-setup-serial-beg-in-115200-pin-mode-sound-dopin-input-pin-mode-red-pin-output-led-13-digital-write-red-pin-low-led-void-loop-duration-pulse-in-long-sound-dopin-high-if-duration-200-serial-println-wind-wind-digital-write-red-pin-low-led-delay-500-if-duration-0-duration-200-serial-println-hand-hand-digital-write-red-pin-high-led-delay-500-else-serial-println-duration-delay-1 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 9940px;
+  width: 1442px;
+  height: 2274px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.img-6827-1 {
+  width: 1528px;
+  height: 1290px;
+  position: absolute;
+  left: 56px;
+  top: 12414px;
   object-fit: cover;
 }
-._35 {
-  width: 1076px;
-  height: 698.83px;
+.rectangle-55 {
+  border-style: solid;
+  border-color: #06ff01;
+  border-width: 2px;
+  width: 30px;
+  height: 31px;
   position: absolute;
-  left: 221px;
-  top: 19980px;
-  object-fit: cover;
+  left: 1274px;
+  top: 13267px;
 }
-._34 {
-  width: 1076px;
-  height: 524.41px;
+.rectangle-56 {
+  border-style: solid;
+  border-color: #06ff01;
+  border-width: 2px;
+  width: 30px;
+  height: 19px;
   position: absolute;
-  left: 221px;
-  top: 19341px;
-  object-fit: cover;
+  left: 1292px;
+  top: 13291px;
 }
-._33 {
-  width: 1076px;
-  height: 692.61px;
+._5-v {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
   position: absolute;
-  left: 308px;
-  top: 20922px;
-  object-fit: cover;
+  left: 1255px;
+  top: 13289px;
+  width: 37px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
-._32 {
-  width: 1057.5px;
-  height: 547px;
+.d-0-2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  line-height: 150%;
+  font-weight: 700;
   position: absolute;
-  left: 317px;
-  top: 21728px;
-  object-fit: cover;
+  left: 1307px;
+  top: 13324px;
+  width: 155px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
-._31 {
-  width: 1063px;
-  height: 541.5px;
+.g {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
   position: absolute;
-  left: 308px;
-  top: 22388px;
+  left: 1234px;
+  top: 13265px;
+  width: 55px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._13 {
+  color: #00ff0a;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 687px;
+  top: 12497px;
+  width: 161px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.g2 {
+  color: #00ff0a;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 545px;
+  top: 12560px;
+  width: 161px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.effect-display {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 150%;
+  font-weight: 700;
+  position: absolute;
+  left: 56px;
+  top: 13726px;
+  width: 480px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gif-1 {
+  width: 1528px;
+  height: 1643px;
+  position: absolute;
+  left: 56px;
+  top: 13874px;
   object-fit: cover;
 }
