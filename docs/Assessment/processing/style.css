@@ -1,8 +1,8 @@
-.processing,
-.processing * {
+._6,
+._6 * {
   box-sizing: border-box;
 }
-.processing {
+._6 {
   background: #ffffff;
   height: 24557px;
   position: relative;
@@ -124,22 +124,6 @@
   top: 9930px;
   width: 1428px;
   height: 6258px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.reference-from-bilibili-10-arduino-processing-https-b-23-tv-6-s-2-sf-18 {
-  color: #78a2ee;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 55px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 240px;
-  top: 26944px;
-  width: 1373px;
-  height: 229px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
