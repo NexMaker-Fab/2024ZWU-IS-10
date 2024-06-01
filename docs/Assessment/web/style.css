@@ -713,7 +713,7 @@
 }
 .rectangle-38 {
   background: #d9d9d9;
-  width: 261px;
+  width: 373px;
   height: 94px;
   position: absolute;
   left: 540px;
@@ -722,18 +722,19 @@
 .doctype-html {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 559px;
-  top: 11153px;
+  left: 604px;
+  top: 11154px;
   width: 233px;
   height: 68px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 ._6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag {
   color: #000000;
@@ -753,7 +754,7 @@
 }
 .rectangle-39 {
   background: #d9d9d9;
-  width: 275px;
+  width: 373px;
   height: 98px;
   position: absolute;
   left: 540px;
@@ -762,18 +763,19 @@
 .html-html {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 563px;
+  left: 614px;
   top: 11394px;
   width: 225px;
   height: 70px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 ._7-inside-the-html-tags-add-opening-and-closing-head-tags {
   color: #000000;
@@ -793,7 +795,7 @@
 }
 .rectangle-40 {
   background: #d9d9d9;
-  width: 305px;
+  width: 424px;
   height: 98px;
   position: absolute;
   left: 540px;
@@ -802,18 +804,19 @@
 .head-head {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 589px;
-  top: 11640px;
+  left: 642px;
+  top: 11639px;
   width: 223px;
   height: 49px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 ._8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag {
   color: #000000;
@@ -833,25 +836,26 @@
 }
 .rectangle-41 {
   background: #d9d9d9;
-  width: 530px;
+  width: 568px;
   height: 98px;
   position: absolute;
   left: 540px;
-  top: 11874px;
+  top: 11872px;
 }
 .title-your-website-title-title {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 547px;
+  left: 635px;
   top: 11903px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 ._9-after-closing-the-head-tags-add-opening-and-closing-body-tags {
   color: #000000;
@@ -871,7 +875,7 @@
 }
 .rectangle-42 {
   background: #d9d9d9;
-  width: 253px;
+  width: 400px;
   height: 98px;
   position: absolute;
   left: 540px;
@@ -880,18 +884,19 @@
 .body-body {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 562px;
-  top: 12123px;
+  left: 621px;
+  top: 12127px;
   width: 211px;
   height: 49px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 ._10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example {
   color: #000000;
@@ -958,16 +963,17 @@
 .h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6 {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 575px;
   top: 13204px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items {
   color: #000000;
@@ -1018,20 +1024,21 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span {
   color: #000000;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 32px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
 }
 .ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span2 {
   color: #000000;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
 }
 .links-use-the-a-tag-to-create-hyperlinks {
   color: #000000;
@@ -1074,10 +1081,10 @@
 .a-href-https-www-example-com-visit-example-com-a {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 560px;
   top: 14170px;
@@ -1086,6 +1093,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px #c7c7c7;
 }
 .add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag {
   color: #000000;
@@ -1119,7 +1127,7 @@
 }
 .rectangle-46 {
   background: #d9d9d9;
-  width: 708px;
+  width: 608px;
   height: 111px;
   position: absolute;
   left: 540px;
@@ -1128,10 +1136,10 @@
 .p-this-is-a-paragraph-of-text-on-my-web-page-p {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 550px;
   top: 14455px;
@@ -1140,6 +1148,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image {
   color: #000000;
@@ -1173,25 +1182,26 @@
 }
 .rectangle-47 {
   background: #d9d9d9;
-  width: 787px;
-  height: 50px;
+  width: 867px;
+  height: 69px;
   position: absolute;
-  left: 540px;
-  top: 14856px;
+  left: 466px;
+  top: 14773px;
 }
 .img-src-path-to-your-image-jpg-alt-description-of-the-image {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
-  left: 555px;
-  top: 14795px;
+  left: 536px;
+  top: 14786px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes {
   color: #000000;
@@ -1293,25 +1303,26 @@
 }
 .rectangle-48 {
   background: #d9d9d9;
-  width: 1037px;
-  height: 190px;
+  width: 1100px;
+  height: 125px;
   position: absolute;
-  left: 415px;
-  top: 15032px;
+  left: 352px;
+  top: 15079px;
 }
 .div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 431px;
-  top: 15086px;
+  top: 15104px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .image-12 {
   width: 1027px;
@@ -1682,10 +1693,10 @@
 .div-class-button-a-class-member-href-member-index-html-member-a-div-div-class-00-button-a-class-assessment-href-assessment-index-html-assessment-a-div-div-class-00-button-3-div-class-frame-1-a-class-team-href-team-index-html-team-a-div-div {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 24px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 347px;
   top: 27284px;
@@ -1694,6 +1705,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.79);
 }
 .autohtml {
   color: #000000;
