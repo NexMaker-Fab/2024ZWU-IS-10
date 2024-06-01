@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./vars.css">
+  <link rel="stylesheet" href="./style.css">
+  
+  
+  <style>
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       appearance: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+   </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="processing">
+    <div class="interface-application-programming">
+      Interface application programming
+    </div>
+    <div
+      class="the-circle-of-processing-is-controlled-according-to-the-size-of-the-arduino-motor"
+    >
+      The circle of processing is controlled according to the size of the Arduino
+      motor.
+    </div>
+    <div class="code">Code：</div>
+    <div class="analog-circuit-connection">Analog circuit connection：</div>
+    <div class="rectangle-35"></div>
+    <div class="rectangle-36"></div>
+    <div class="rectangle-37"></div>
+    <div class="effect-display">Effect display:</div>
+    <div
+      class="keyboard-functions-by-martin-gomez-click-on-the-window-to-give-it-focus-and-press-the-letter-keys-to-type-colors-the-keyboard-function-key-pressed-is-called-whenever-a-key-is-pressed-key-released-is-another-keyboard-function-that-is-called-when-a-key-is-released-original-color-typewriter-concept-by-john-maeda-int-max-height-40-int-min-height-20-int-letter-height-max-height-height-of-the-letters-int-letter-width-20-width-of-the-letter-int-x-letter-width-x-position-of-the-letters-int-y-0-y-position-of-the-letters-boolean-newletter-int-num-chars-26-there-are-26-characters-in-the-alphabet-color-colors-new-color-num-chars-void-setup-size-640-360-no-stroke-color-mode-hsb-num-chars-background-num-chars-2-set-a-hue-value-for-each-key-for-int-i-0-i-num-chars-i-colors-i-color-i-num-chars-num-chars-void-draw-if-newletter-true-draw-the-letter-int-y-pos-if-letter-height-max-height-y-pos-y-rect-x-y-pos-letter-width-letter-height-else-y-pos-y-min-height-rect-x-y-pos-letter-width-letter-height-fill-num-chars-2-rect-x-y-pos-min-height-letter-width-letter-height-newletter-false-void-key-pressed-if-the-key-is-between-a-65-to-z-and-a-to-z-122-if-key-a-key-z-key-a-key-z-int-key-index-if-key-z-key-index-key-a-letter-height-max-height-fill-colors-key-index-else-key-index-key-a-letter-height-min-height-fill-colors-key-index-else-fill-0-letter-height-10-newletter-true-update-the-letter-position-x-x-letter-width-wrap-horizontally-if-x-width-letter-width-x-0-y-max-height-wrap-vertically-if-y-height-letter-height-y-0-reset-y-to-0"
+    >
+      /**
+      <br />
+      * Keyboard Functions
+      <br />
+      * by Martin Gomez
+      <br />
+      *
+      <br />
+      * Click on the window to give it focus and press the letter keys to type
+      colors.
+      <br />
+      * The keyboard function keyPressed() is called whenever
+      <br />
+      * a key is pressed. keyReleased() is another keyboard
+      <br />
+      * function that is called when a key is released.
+      <br />
+      *
+      <br />
+      * Original &#039;Color Typewriter&#039; concept by John Maeda.
+      <br />
+      */
+      <br />
+      <br />
+      int maxHeight = 40;
+      <br />
+      int minHeight = 20;
+      <br />
+      int letterHeight = maxHeight; // Height of the letters
+      <br />
+      int letterWidth = 20; // Width of the letter
+      <br />
+      <br />
+      int x = -letterWidth; // X position of the letters
+      <br />
+      int y = 0; // Y position of the letters
+      <br />
+      <br />
+      boolean newletter;
+      <br />
+      <br />
+      int numChars = 26; // There are 26 characters in the alphabet
+      <br />
+      color[] colors = new color[numChars];
+      <br />
+      <br />
+      void setup() &lcub;
+      <br />
+      size(640, 360);
+      <br />
+      noStroke();
+      <br />
+      colorMode(HSB, numChars);
+      <br />
+      background(numChars/2);
+      <br />
+      // Set a hue value for each key
+      <br />
+      for(int i = 0; i &lt; numChars; i++) &lcub;
+      <br />
+      colors[i] = color(i, numChars, numChars);
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void draw() &lcub;
+      <br />
+      if(newletter == true) &lcub;
+      <br />
+      // Draw the &quot;letter&quot;
+      <br />
+      int y_pos;
+      <br />
+      if (letterHeight == maxHeight) &lcub;
+      <br />
+      y_pos = y;
+      <br />
+      rect( x, y_pos, letterWidth, letterHeight );
+      <br />
+      &rcub; else &lcub;
+      <br />
+      y_pos = y + minHeight;
+      <br />
+      rect( x, y_pos, letterWidth, letterHeight );
+      <br />
+      fill(numChars/2);
+      <br />
+      rect( x, y_pos-minHeight, letterWidth, letterHeight );
+      <br />
+      &rcub;
+      <br />
+      newletter = false;
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void keyPressed()
+      <br />
+      &lcub;
+      <br />
+      // If the key is between &#039;A&#039;(65) to &#039;Z&#039; and
+      &#039;a&#039; to &#039;z&#039;(122)
+      <br />
+      if((key &gt;= &#039;A&#039; &amp;&amp; key &lt;= &#039;Z&#039;) || (key
+      &gt;= &#039;a&#039; &amp;&amp; key &lt;= &#039;z&#039;)) &lcub;
+      <br />
+      int keyIndex;
+      <br />
+      if(key &lt;= &#039;Z&#039;) &lcub;
+      <br />
+      keyIndex = key-&#039;A&#039;;
+      <br />
+      letterHeight = maxHeight;
+      <br />
+      fill(colors[keyIndex]);
+      <br />
+      &rcub; else &lcub;
+      <br />
+      keyIndex = key-&#039;a&#039;;
+      <br />
+      letterHeight = minHeight;
+      <br />
+      fill(colors[keyIndex]);
+      <br />
+      &rcub;
+      <br />
+      &rcub; else &lcub;
+      <br />
+      fill(0);
+      <br />
+      letterHeight = 10;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      newletter = true;
+      <br />
+      <br />
+      // Update the &quot;letter&quot; position
+      <br />
+      x = ( x + letterWidth );
+      <br />
+      <br />
+      // Wrap horizontally
+      <br />
+      if (x &gt; width - letterWidth) &lcub;
+      <br />
+      x = 0;
+      <br />
+      y+= maxHeight;
+      <br />
+      &rcub;
+      <br />
+      <br />
+      // Wrap vertically
+      <br />
+      if( y &gt; height - letterHeight) &lcub;
+      <br />
+      y = 0; // reset y to 0
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+    </div>
+    <div
+      class="reference-from-bilibili-10-arduino-processing-https-b-23-tv-6-s-2-sf-18"
+    >
+      *Reference from bilibili 【10分钟学会Arduino与Processing通信！-哔哩哔哩】
+      https://b23.tv/6s2SF18
+      <br />
+    </div>
+    <div class="_1">
+      <div class="items">
+        <div class="assessment">Assessment</div>
+        <div class="member">Member</div>
+        <div class="team">Team</div>
+        <div class="button">
+          <div class="home">Home</div>
+        </div>
+      </div>
+      <div class="final-work">Final work</div>
+      <div class="_4-aol">4AOL</div>
+    </div>
+    <div class="_1-the-basic-knowledge-about-processing">
+      1.The basic knowledge about processing：
+    </div>
+    <div
+      class="processing-is-a-flexible-software-sketchbook-and-a-language-for-learning-how-to-code-within-the-context-of-the-visual-arts-it-simplifies-the-process-of-creating-visual-art-through-code-by-providing-a-straightforward-and-approachable-framework-making-it-popular-among-artists-designers-and-educators"
+    >
+      Processing is a flexible software sketchbook and a language for learning how
+      to code within the context of the visual arts. It simplifies the process of
+      creating visual art through code by providing a straightforward and
+      approachable framework, making it popular among artists, designers, and
+      educators.
+    </div>
+    <div class="here-is-the-official-website-https-processing-org">
+      Here is the official website:https://processing.org
+    </div>
+    <div class="_1-1-introduction-to-the-work-area-in-processing">
+      1-1 Introduction to the work area in processing
+    </div>
+    <div
+      class="a-menu-bar-located-at-the-top-of-the-window-it-contains-commonly-used-function-buttons-such-as-documents-sketches-etc-b-code-area-this-is-the-main-area-of-coding-where-users-can-write-and-edit-processing-code-c-output-area-located-below-or-next-to-the-editing-area-it-is-used-to-display-the-output-information-of-the-program-such-as-the-result-of-printed-statements-error-information-and-debugging-information-d-mode-selection-processing-provides-two-modes-java-mode-and-java-script-mode-java-pattern-is-used-for-traditional-desktop-application-development-while-java-script-pattern-is-used-for-web-development-users-can-switch-modes-in-the-toolbar-or-menu-e-start-stop-start-stop-running-the-program"
+    >
+      a. Menu bar: located at the top of the window, it contains commonly used
+      function buttons, such as documents, sketches, etc
+      <br />
+      b. Code area: This is the main area of coding where users can write and edit
+      Processing code. 
+      <br />
+      c. Output area: located below or next to the editing area, it is used to
+      display the output information of the program, such 
+      <br />
+      as the result of printed statements, error information and debugging
+      information.
+      <br />
+      d. Mode selection: Processing provides two modes: Java mode and JavaScript
+      mode. Java pattern is used for traditional desktop 
+      <br />
+      application development, while JavaScript pattern is used for Web
+      development. Users can switch modes in the toolbar or menu.
+      <br />
+      e.Start&amp;Stop: Start/Stop running the program
+      <br />
+    </div>
+    <div
+      class="a-new-file-clicking-will-create-a-new-window-with-a-new-empty-editing-area-where-you-can-start-writing-new-code-b-sample-programs-usually-contains-a-number-of-preset-sample-programs-that-demonstrate-various-programming-concepts-and-techniques-users-can-select-these-sample-programs-to-learn-and-understand-how-processing-works-c-preferences-preferences-allow-users-to-configure-various-parameters-of-the-processing-ide-according-to-their-preferences-and-needs"
+    >
+      a. New File: Clicking will create a new window with a new, empty editing
+      area where you can start writing new code.
+      <br />
+      b. Sample programs: Usually contains a number of preset sample programs that
+      demonstrate various programming concepts and 
+      <br />
+      techniques. Users can select these sample programs to learn and understand
+      how Processing works.
+      <br />
+      c. Preferences: Preferences allow users to configure various parameters of
+      the Processing IDE according to their preferences 
+      <br />
+      and needs.
+    </div>
+    <div
+      class="preference-settings-you-can-change-the-editor-s-fonts-languages-color-themes-code-indent-settings-and-more"
+    >
+      Preference Settings:You can change the editor&#039;s fonts, languages, color
+      themes, code indent Settings, and more.
+    </div>
+    <div class="_2-new-tool-similar-with-processing">
+      2.New tool similar with processing:
+    </div>
+    <div class="_3-processing-use-keyboard-to-interactive">
+      3.Processing use keyboard to interactive:
+    </div>
+    <div class="touch-designer">Touch Designer</div>
+    <div class="introduction">Introduction:</div>
+    <div class="code2">Code:</div>
+    <div class="here-is-the-official-website-https-derivative-ca-download">
+      Here is the official website:https://derivative.ca/download
+    </div>
+    <div
+      class="touch-designer-is-a-visual-development-platform-designed-for-creating-interactive-multimedia-content-developed-by-derivative-it-is-widely-used-in-the-fields-of-interactive-art-live-performances-and-immersive-installations-touch-designer-enables-artists-designers-and-developers-to-create-real-time-visuals-by-connecting-nodes-in-a-graphical-interface-allowing-for-complex-interactions-and-multimedia-experiences-without-the-need-for-extensive-coding"
+    >
+      TouchDesigner is a visual development platform designed for creating
+      interactive multimedia content. Developed by Derivative, it is widely used
+      in the fields of interactive art, live performances, and immersive
+      installations. TouchDesigner enables artists, designers, and developers to
+      create real-time visuals by connecting nodes in a graphical interface,
+      allowing for complex interactions and multimedia experiences without the
+      need for extensive coding.
+    </div>
+    <img class="input-10" src="input-100.png" />
+    <img class="_2024-06-01-171728-1" src="_2024-06-01-171728-10.png" />
+    <img class="_2024-06-01-172108-1" src="_2024-06-01-172108-10.png" />
+    <img class="_2024-06-01-163304" src="_2024-06-01-1633040.png" />
+    <img class="_2024-06-01-163328" src="_2024-06-01-1633280.png" />
+    <div class="rectangle-25"></div>
+    <div class="rectangle-29"></div>
+    <div class="rectangle-27"></div>
+    <div class="rectangle-26"></div>
+    <div class="a-menu">a.Menu</div>
+    <div class="e-start-stop">e.Start&amp;Stop</div>
+    <div class="d-mode-selection">d.mode selection</div>
+    <div class="b-code-area">b.Code area</div>
+    <div class="c-output-area">c.Output area</div>
+    <div class="rectangle-28"></div>
+    <div class="rectangle-30"></div>
+    <div class="rectangle-31"></div>
+    <div class="rectangle-32"></div>
+    <div class="a-new-file">a.New File</div>
+    <div class="b-examples">b.Examples</div>
+    <div class="c-preference">c.Preference</div>
+    <div class="_4-processing-with-arduino">4.Processing with Arduino:</div>
+    <div class="introduction2">Introduction:</div>
+    <div class="processing-code">Processing code</div>
+    <div class="arduino-code">Arduino code</div>
+    <div
+      class="int-pot-pin-a-0-int-pot-value-0-void-setup-serial-begin-9600-void-loop-pot-value-analog-read-pot-pin-pot-value-map-pot-value-0-1024-0-256-serial-println-pot-value-serial-write-pot-value"
+    >
+      int potPin=A0;
+      <br />
+      int potValue=0;
+      <br />
+      <br />
+      void setup() &lcub;
+      <br />
+      Serial.begin(9600);
+      <br />
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void loop() &lcub;
+      <br />
+      potValue=analogRead(potPin);
+      <br />
+      potValue=map(potValue,0,1024,0,256);
+      <br />
+      //Serial.println(potValue);
+      <br />
+      Serial.write(potValue);
+      <br />
+      &rcub;
+    </div>
+    <div
+      class="import-processing-serial-serial-my-port-int-sensor-value-void-setup-size-800-600-background-0-println-serial-list-string-port-name-serial-list-3-my-port-new-serial-this-port-name-9600-void-serial-event-serial-my-port-sensor-value-my-port-read-println-sensor-value"
+    >
+      import processing.serial.*;
+      <br />
+      Serial myPort;
+      <br />
+      int sensorValue;
+      <br />
+      <br />
+      void setup()&lcub;
+      <br />
+      size(800,600);
+      <br />
+      background(0);
+      <br />
+      <br />
+      println(Serial.list());
+      <br />
+      <br />
+      String portName=Serial.list()[3];
+      <br />
+      myPort=new Serial(this,portName,9600);
+      <br />
+      &rcub;
+      <br />
+      <br />
+      void serialEvent(Serial myPort)&lcub;
+      <br />
+      sensorValue=myPort.read();
+      <br />
+      println(sensorValue);
+      <br />
+      &rcub;
+    </div>
+    <img class="_2024-06-01-181238-1" src="_2024-06-01-181238-10.png" />
+    <img class="_2024-06-01-181344-1" src="_2024-06-01-181344-10.png" />
+    <img class="_2024-06-01-181656-1" src="_2024-06-01-181656-10.png" />
+    <div class="effect-display2">Effect Display:</div>
+    <div
+      class="click-on-the-window-to-give-it-focus-and-press-the-letter-keys-to-type-colors-the-keyboard-function-key-pressed-is-called-whenever-a-key-is-pressed-key-released-is-another-keyboard-function-that-is-called-when-a-key-is-released-original-color-typewriter-concept-by-john-maeda"
+    >
+      Click on the window to give it focus and press the letter keys to type
+      colors. The keyboard function keyPressed() is called whenever a key is
+      pressed. keyReleased() is another keyboard function that is called when a
+      key is released. Original &#039;Color Typewriter&#039; concept by John
+      Maeda.
+    </div>
+    <img class="_2024-06-01-163344" src="_2024-06-01-1633440.png" />
+    <div class="rectangle-33"></div>
+    <div class="rectangle-34"></div>
+  </div>
+  
+</body>
+</html>

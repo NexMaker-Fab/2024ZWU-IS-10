@@ -4,7 +4,7 @@
 }
 .cad {
   background: #ffffff;
-  height: 29981px;
+  height: 32256px;
   position: relative;
   overflow: hidden;
 }
@@ -179,6 +179,86 @@
   left: 76px;
   top: 19498px;
   width: 1020px;
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.iv-motion-link {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 21516px;
+  width: 574px;
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.v-plugins {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 22450px;
+  width: 574px;
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vi-engineering-drawing {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 104px;
+  top: 25382px;
+  width: 749px;
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vii-another-cad-software {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 103px;
+  top: 25507px;
+  width: 749px;
+  height: 94px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.viii-automated-modeling {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 28157px;
+  width: 971px;
   height: 94px;
   display: flex;
   align-items: center;
@@ -384,6 +464,134 @@
   align-items: center;
   justify-content: flex-start;
 }
+.the-box-dimensions-are-length-60-mm-width-45-mm-height-40-mm-and-thickness-1-mm {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 19592px;
+  width: 1506px;
+  height: 119px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-selecting-the-plugins-to-use {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 22575px;
+  width: 1506px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-change-the-material {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 100px;
+  top: 24412px;
+  width: 1506px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-select-the-connected-faces {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 28251px;
+  width: 1506px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-select-the-option {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 29229px;
+  width: 1506px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.finished-product-display {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 86px;
+  top: 30206px;
+  width: 1506px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-solid-works-this-widely-used-3-d-cad-software-is-particularly-suited-for-mechanical-design-and-engineering-solid-works-offers-powerful-modeling-tools-an-easy-to-use-interface-and-a-range-of-plugins-and-extensions-for-simulation-analysis-and-product-data-management {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 99px;
+  top: 25601px;
+  width: 1468px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-auto-cad-developed-by-autodesk-auto-cad-is-a-2-d-and-3-d-cad-software-used-extensively-in-architecture-engineering-and-manufacturing-auto-cad-is-known-for-its-robust-drawing-and-design-capabilities-making-it-ideal-for-creating-detailed-engineering-drawings-and-blueprints {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 93px;
+  top: 26775px;
+  width: 1499px;
+  height: 349px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
 ._4-repeat-the-above-steps-to-create-the-boards-around-the-box {
   color: #000000;
   text-align: left;
@@ -488,7 +696,7 @@
   top: 14843px;
   object-fit: cover;
 }
-._20240531211653-1 {
+.p2 {
   width: 1503px;
   height: 845px;
   position: absolute;
@@ -496,7 +704,7 @@
   top: 16787px;
   object-fit: cover;
 }
-._2-363151490 {
+.a2 {
   width: 1504px;
   height: 778px;
   position: absolute;
@@ -504,11 +712,123 @@
   top: 18660px;
   object-fit: cover;
 }
-._1-989311901 {
+.b2 {
   width: 1492px;
   height: 772px;
   position: absolute;
   left: 93px;
   top: 17764px;
+  object-fit: cover;
+}
+.b3 {
+  width: 1492px;
+  height: 772px;
+  position: absolute;
+  left: 74px;
+  top: 21635px;
+  object-fit: cover;
+}
+.r {
+  width: 1498px;
+  height: 843px;
+  position: absolute;
+  left: 80px;
+  top: 19734px;
+  object-fit: cover;
+}
+.s {
+  width: 1492px;
+  height: 840px;
+  position: absolute;
+  left: 74px;
+  top: 20650px;
+  object-fit: cover;
+}
+.t {
+  width: 1490px;
+  height: 838px;
+  position: absolute;
+  left: 94px;
+  top: 22665px;
+  object-fit: cover;
+}
+.u {
+  width: 1484px;
+  height: 835px;
+  position: absolute;
+  left: 94px;
+  top: 23546px;
+  object-fit: cover;
+}
+.v {
+  width: 1477px;
+  height: 831px;
+  position: absolute;
+  left: 100px;
+  top: 24508px;
+  object-fit: cover;
+}
+.w {
+  width: 1504px;
+  height: 808px;
+  position: absolute;
+  left: 86px;
+  top: 25930px;
+  object-fit: cover;
+}
+.x {
+  width: 1506px;
+  height: 860px;
+  position: absolute;
+  left: 86px;
+  top: 27096px;
+  object-fit: cover;
+}
+.y {
+  width: 1504px;
+  height: 846px;
+  position: absolute;
+  left: 86px;
+  top: 28347px;
+  object-fit: cover;
+}
+.z {
+  width: 1504px;
+  height: 846px;
+  position: absolute;
+  left: 85px;
+  top: 29324px;
+  object-fit: cover;
+}
+.aa {
+  width: 1506px;
+  height: 847px;
+  position: absolute;
+  left: 85px;
+  top: 31186px;
+  object-fit: cover;
+}
+.https-tse-2-mm-cn-bing-net-th-id-oip-c-k-mr-3-v-be-1-e-ve-nf-7-e-kd-to-2-w-ha-eo-rs-1-pid-img-det-main {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 91px;
+  top: 27982px;
+  width: 1498px;
+  height: 152px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._202406011733351 {
+  width: 1493px;
+  height: 840px;
+  position: absolute;
+  left: 91px;
+  top: 30299px;
   object-fit: cover;
 }
