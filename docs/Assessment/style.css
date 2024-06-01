@@ -53,8 +53,8 @@
   width: 372px;
   height: 129px;
   position: absolute;
-  left: 395px;
-  top: 647px;
+  left: 922px;
+  top: 446px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .interface-application-programming {
@@ -152,8 +152,8 @@
   width: 360px;
   height: 130px;
   position: absolute;
-  left: 922px;
-  top: 445px;
+  left: 395px;
+  top: 646px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
