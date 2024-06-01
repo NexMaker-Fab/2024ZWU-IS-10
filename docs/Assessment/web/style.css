@@ -16,162 +16,6 @@
   left: 321px;
   top: 27273px;
 }
-.rectangle-38 {
-  background: #d9d9d9;
-  width: 261px;
-  height: 94px;
-  position: absolute;
-  left: 540px;
-  top: 11143px;
-}
-.rectangle-39 {
-  background: #d9d9d9;
-  width: 275px;
-  height: 98px;
-  position: absolute;
-  left: 540px;
-  top: 11380px;
-}
-.rectangle-40 {
-  background: #d9d9d9;
-  width: 305px;
-  height: 98px;
-  position: absolute;
-  left: 540px;
-  top: 11615px;
-}
-.rectangle-41 {
-  background: #d9d9d9;
-  width: 408px;
-  height: 98px;
-  position: absolute;
-  left: 540px;
-  top: 11874px;
-}
-.title-your-website-title-title {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 547px;
-  top: 11903px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.rectangle-42 {
-  background: #d9d9d9;
-  width: 253px;
-  height: 98px;
-  position: absolute;
-  left: 540px;
-  top: 12101px;
-}
-.rectangle-43 {
-  background: #d9d9d9;
-  width: 504px;
-  height: 211px;
-  position: absolute;
-  left: 540px;
-  top: 13161px;
-}
-.rectangle-44 {
-  background: #d9d9d9;
-  width: 504px;
-  height: 437px;
-  position: absolute;
-  left: 540px;
-  top: 13588px;
-}
-.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol {
-  color: #000000;
-  text-align: left;
-  position: absolute;
-  left: 542px;
-  top: 13588px;
-  width: 502px;
-  height: 437px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.rectangle-45 {
-  background: #d9d9d9;
-  width: 509px;
-  height: 111px;
-  position: absolute;
-  left: 540px;
-  top: 14165px;
-}
-.rectangle-46 {
-  background: #d9d9d9;
-  width: 608px;
-  height: 111px;
-  position: absolute;
-  left: 540px;
-  top: 14450px;
-}
-.rectangle-47 {
-  background: #d9d9d9;
-  width: 787px;
-  height: 111px;
-  position: absolute;
-  left: 540px;
-  top: 14756px;
-}
-.img-src-path-to-your-image-jpg-alt-description-of-the-image {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 555px;
-  top: 14795px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.rectangle-48 {
-  background: #d9d9d9;
-  width: 1037px;
-  height: 202px;
-  position: absolute;
-  left: 415px;
-  top: 15032px;
-}
-.div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 431px;
-  top: 15086px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
 .navigation {
   background: #ffffff;
   height: 128px;
@@ -851,6 +695,220 @@
   top: 10140px;
   object-fit: cover;
 }
+._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 10970px;
+  width: 1027px;
+  height: 147px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-38 {
+  background: #d9d9d9;
+  width: 261px;
+  height: 94px;
+  position: absolute;
+  left: 540px;
+  top: 11143px;
+}
+.doctype-html {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 559px;
+  top: 11153px;
+  width: 233px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 11259px;
+  width: 1027px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-39 {
+  background: #d9d9d9;
+  width: 275px;
+  height: 98px;
+  position: absolute;
+  left: 540px;
+  top: 11380px;
+}
+.html-html {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 563px;
+  top: 11394px;
+  width: 225px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._7-inside-the-html-tags-add-opening-and-closing-head-tags {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 11478px;
+  width: 1027px;
+  height: 103px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-40 {
+  background: #d9d9d9;
+  width: 305px;
+  height: 98px;
+  position: absolute;
+  left: 540px;
+  top: 11615px;
+}
+.head-head {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 589px;
+  top: 11640px;
+  width: 223px;
+  height: 49px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 11739px;
+  width: 1027px;
+  height: 89px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-41 {
+  background: #d9d9d9;
+  width: 408px;
+  height: 98px;
+  position: absolute;
+  left: 540px;
+  top: 11874px;
+}
+.title-your-website-title-title {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 547px;
+  top: 11903px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._9-after-closing-the-head-tags-add-opening-and-closing-body-tags {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 12011px;
+  width: 1027px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-42 {
+  background: #d9d9d9;
+  width: 253px;
+  height: 98px;
+  position: absolute;
+  left: 540px;
+  top: 12101px;
+}
+.body-body {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 562px;
+  top: 12123px;
+  width: 211px;
+  height: 49px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 324px;
+  top: 12224px;
+  width: 1027px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
 .image-11 {
   width: 1027px;
   height: 538px;
@@ -858,6 +916,350 @@
   left: 323px;
   top: 12399px;
   object-fit: cover;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 12973px;
+  width: 1027px;
+  height: 126px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.rectangle-43 {
+  background: #d9d9d9;
+  width: 504px;
+  height: 211px;
+  position: absolute;
+  left: 540px;
+  top: 13161px;
+}
+.h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 575px;
+  top: 13204px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 322px;
+  top: 13431px;
+  width: 1027px;
+  height: 115px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.rectangle-44 {
+  background: #d9d9d9;
+  width: 504px;
+  height: 437px;
+  position: absolute;
+  left: 540px;
+  top: 13588px;
+}
+.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 542px;
+  top: 13588px;
+  width: 502px;
+  height: 437px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.links-use-the-a-tag-to-create-hyperlinks {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 322px;
+  top: 14025px;
+  width: 1027px;
+  height: 101px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.links-use-the-a-tag-to-create-hyperlinks-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.links-use-the-a-tag-to-create-hyperlinks-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.rectangle-45 {
+  background: #d9d9d9;
+  width: 509px;
+  height: 111px;
+  position: absolute;
+  left: 540px;
+  top: 14165px;
+}
+.a-href-https-www-example-com-visit-example-com-a {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 560px;
+  top: 14170px;
+  width: 489px;
+  height: 108px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 322px;
+  top: 14276px;
+  width: 1027px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.rectangle-46 {
+  background: #d9d9d9;
+  width: 608px;
+  height: 111px;
+  position: absolute;
+  left: 540px;
+  top: 14450px;
+}
+.p-this-is-a-paragraph-of-text-on-my-web-page-p {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 550px;
+  top: 14455px;
+  width: 598px;
+  height: 106px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 14592px;
+  width: 1027px;
+  height: 152px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.rectangle-47 {
+  background: #d9d9d9;
+  width: 787px;
+  height: 111px;
+  position: absolute;
+  left: 540px;
+  top: 14756px;
+}
+.img-src-path-to-your-image-jpg-alt-description-of-the-image {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 555px;
+  top: 14795px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 14872px;
+  width: 1027px;
+  height: 129px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 325px;
+  top: 15251px;
+  width: 1149px;
+  height: 431px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  text-decoration: underline;
 }
 .write-document-and-save-all-under-v-scode-push-to-github-1-click-on-the-clone-a-repository-button-or-go-to-file-clone-repository-2-select-the-repository-you-want-to-work-with-from-the-list-or-enter-its-url-3-choose-a-local-path-where-you-want-to-clone-the-repository-on-your-computer-4-click-on-the-clone-button-to-download-a-copy-of-the-repository-to-your-local-machine-5-once-cloned-you-can-make-changes-to-files-within-the-repository-folder-on-your-computer-using-any-text-editor-or-ide-6-open-the-git-hub-desktop-app-and-you-will-see-a-list-of-changed-files-under-changes-7-review-and-select-which-files-you-want-to-commit-by-checking-their-checkboxes-8-enter-a-brief-summary-of-your-changes-in-the-summary-field-and-provide-an-optional-description-in-the-description-field-9-click-on-the-commit-button-to-save-your-changes-locally-10-to-push-your-changes-to-git-hub-click-on-push-origin-at-the-top-right-corner-of-the-app-window-that-s-it-your-changes-are-now-pushed-to-git-hub-using-the-git-hub-desktop-app {
   color: #000000;
@@ -888,6 +1290,28 @@
   font-size: 32px;
   line-height: 150%;
   font-weight: 400;
+}
+.rectangle-48 {
+  background: #d9d9d9;
+  width: 1037px;
+  height: 202px;
+  position: absolute;
+  left: 415px;
+  top: 15032px;
+}
+.div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 431px;
+  top: 15086px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 .image-12 {
   width: 1027px;
@@ -2237,430 +2661,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-._4-open-the-index-html-file-in-your-text-editor-5-start-by-adding-the-basic-structure-of-an-html-document-by-typing-this-code-at-the-top-of-the-file {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 10970px;
-  width: 1027px;
-  height: 147px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.doctype-html {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 559px;
-  top: 11153px;
-  width: 233px;
-  height: 68px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-._6-below-the-doctype-declaration-add-an-opening-and-closing-html-tag {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 11259px;
-  width: 1027px;
-  height: 101px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.html-html {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 563px;
-  top: 11394px;
-  width: 225px;
-  height: 70px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.head-head {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 589px;
-  top: 11640px;
-  width: 223px;
-  height: 49px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-._7-inside-the-html-tags-add-opening-and-closing-head-tags {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 11478px;
-  width: 1027px;
-  height: 103px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-._8-within-the-head-tags-you-can-add-various-elements-such-as-a-title-for-your-webpage-using-the-title-tag {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 11739px;
-  width: 1027px;
-  height: 89px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-._9-after-closing-the-head-tags-add-opening-and-closing-body-tags {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 12011px;
-  width: 1027px;
-  height: 90px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.body-body {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 562px;
-  top: 12123px;
-  width: 211px;
-  height: 49px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-._10-inside-the-body-tags-you-can-start-adding-content-to-your-webpage-such-as-headings-paragraphs-images-links-etc-for-example {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 324px;
-  top: 12224px;
-  width: 1027px;
-  height: 143px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 325px;
-  top: 12973px;
-  width: 1027px;
-  height: 126px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6 {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 575px;
-  top: 13204px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 322px;
-  top: 13431px;
-  width: 1027px;
-  height: 115px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.lists-create-ordered-numbered-and-unordered-bulleted-lists-using-ol-and-ul-along-with-li-for-list-items-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.links-use-the-a-tag-to-create-hyperlinks {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 322px;
-  top: 14025px;
-  width: 1027px;
-  height: 101px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.links-use-the-a-tag-to-create-hyperlinks-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.links-use-the-a-tag-to-create-hyperlinks-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.a-href-https-www-example-com-visit-example-com-a {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 560px;
-  top: 14170px;
-  width: 489px;
-  height: 108px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 322px;
-  top: 14276px;
-  width: 1027px;
-  height: 143px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.add-text-inside-the-body-tag-you-can-add-text-using-the-p-paragraph-tag-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.p-this-is-a-paragraph-of-text-on-my-web-page-p {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 24px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 550px;
-  top: 14455px;
-  width: 598px;
-  height: 106px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 325px;
-  top: 14592px;
-  width: 1027px;
-  height: 152px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.add-images-to-add-images-use-the-img-tag-specify-the-src-attribute-with-the-path-to-your-image-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 325px;
-  top: 14872px;
-  width: 1027px;
-  height: 129px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.divs-and-spans-use-div-for-block-level-containers-and-span-for-inline-containers-these-are-often-used-for-grouping-and-styling-purposes-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information {
-  color: #000000;
-  text-align: left;
-  font-family: "-", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 325px;
-  top: 15251px;
-  width: 1149px;
-  height: 431px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span {
-  color: #000000;
-  font-family: "Inter-SemiBold", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 600;
-}
-.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span2 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-}
-.save-and-view-save-your-html-file-and-open-it-in-a-web-browser-to-see-your-web-page-right-click-on-the-file-and-select-open-with-to-choose-your-preferred-browser-now-you-have-successfully-set-up-an-index-html-file-you-can-open-it-in-a-web-browser-to-see-how-it-looks-or-continue-adding-more-content-and-styling-to-build-your-website-further-for-more-information-span3 {
-  color: #000000;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  text-decoration: underline;
 }
 .towards-https-nexmaker-fab-github-io-2023-zjudem-tomorrow-s-wonder-team-pm-html-draw-lessons-from {
   color: #000000;
