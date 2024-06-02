@@ -1157,10 +1157,10 @@
 .includes-include-main-h-include-i-2-c-h-include-tim-h-include-gpio-h-include-oled-h-user-code-begin-pv-volatile-unsigned-char-et-0-0-user-code-end-pv-initialize-all-configured-peripherals-mx-gpio-init-mx-tim-2-init-mx-i-2-c-2-init-oled-init-oled-clear-user-code-begin-2-hal-tim-pwm-start-amp-htim-2-tim-channel-1-2-hal-gpio-write-pin-gpioc-b-pin-gpio-pin-reset-b-oled-show-c-hinese-0-2-6-oled-duty-0-oled-show-c-hinese-16-2-7-oled-show-c-hinese-32-2-8-oled-show-c-hinese-48-2-9-oled-show-c-hinese-64-2-0-oled-show-c-hinese-80-2-10-oled-show-string-0-0-duty-0-sizeof-duty-0-user-code-end-2-infinite-loop-user-code-begin-while-while-1-user-code-end-while-user-code-begin-3-if-et-0-0-hal-gpio-write-pin-gpioc-ld-1-pin-ld-2-pin-ld-3-pin-ld-4-pin-gpio-pin-set-else-if-et-1-1-hal-gpio-toggle-pin-gpioc-ld-1-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-2-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-1-pin-ld-2-pin-hal-delay-500-else-if-et-2-2-hal-gpio-toggle-pin-gpioc-ld-1-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-2-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-3-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-1-pin-ld-2-pin-ld-3-pin-hal-delay-500-else-if-et-3-3-hal-gpio-toggle-pin-gpioc-ld-1-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-2-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-3-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-4-pin-hal-delay-500-hal-gpio-toggle-pin-gpioc-ld-1-pin-ld-2-pin-ld-3-pin-ld-4-pin-hal-delay-500-user-code-end-3-user-code-begin-4-void-hal-gpio-exti-callback-uint-16-t-gpio-pin-switch-gpio-pin-case-k-1-pin-1-oled-duty-30-oled-clear-oled-show-c-hinese-0-2-0-oled-show-c-hinese-16-2-1-oled-show-c-hinese-32-2-2-oled-show-c-hinese-48-2-3-oled-show-c-hinese-64-2-1-oled-show-string-0-0-duty-30-sizeof-duty-30-hal-tim-set-compare-amp-htim-2-tim-channel-1-30-30-et-1-1-break-case-k-2-pin-2-oled-duty-60-oled-clear-oled-show-c-hinese-0-2-0-oled-show-c-hinese-16-2-1-oled-show-c-hinese-32-2-2-oled-show-c-hinese-48-2-4-oled-show-c-hinese-64-2-1-oled-show-string-0-0-duty-60-sizeof-duty-60-hal-tim-set-compare-amp-htim-2-tim-channel-1-60-60-et-2-2-break-case-k-3-pin-3-oled-duty-90-oled-clear-oled-show-c-hinese-0-2-0-oled-show-c-hinese-16-2-1-oled-show-c-hinese-32-2-2-oled-show-c-hinese-48-2-5-oled-show-c-hinese-64-2-1-oled-show-string-0-0-duty-90-sizeof-duty-90-hal-tim-set-compare-amp-htim-2-tim-channel-1-90-90-et-3-3-break-case-k-4-pin-4-oled-duty-0-oled-clear-oled-show-c-hinese-0-2-6-oled-show-c-hinese-16-2-7-oled-show-c-hinese-32-2-8-oled-show-c-hinese-48-2-9-oled-show-c-hinese-64-2-0-oled-show-c-hinese-80-2-10-oled-show-string-0-0-duty-0-sizeof-duty-0-hal-tim-set-compare-amp-htim-2-tim-channel-1-0-0-et-0-0-break-user-code-end-4 {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 32px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 189px;
   top: 35668px;
@@ -1215,10 +1215,10 @@
 .code-int-led-pins-2-3-4-5-6-7-led-int-num-leds-sizeof-led-pins-sizeof-led-pins-0-void-setup-for-int-i-0-i-num-leds-i-pin-mode-led-pins-i-output-void-loop-for-int-i-0-i-num-leds-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low-for-int-i-num-leds-2-i-0-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-Light", sans-serif;
   font-size: 36px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 300;
   position: absolute;
   left: 189px;
   top: 44408px;
@@ -1242,6 +1242,14 @@
   align-items: center;
   justify-content: flex-start;
 }
+.aaaa {
+  width: 1373px;
+  height: 1280px;
+  position: absolute;
+  left: 151px;
+  top: 43148px;
+  object-fit: cover;
+}
 .after-uploading-the-effect-can-be-seen-as-follows-six-led-lights-are-lit-from-right-to-left-and-then-turned-off-from-right-to-left {
   color: #000000;
   text-align: left;
@@ -1257,14 +1265,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-.aaaa {
-  width: 1373px;
-  height: 1280px;
-  position: absolute;
-  left: 151px;
-  top: 43148px;
-  object-fit: cover;
 }
 .gif-2 {
   width: 1360px;
