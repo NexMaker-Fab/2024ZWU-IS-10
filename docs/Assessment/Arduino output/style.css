@@ -4,7 +4,7 @@
 }
 .arduino {
   background: #ffffff;
-  height: 42907px;
+  height: 46053px;
   position: relative;
   overflow: hidden;
 }
@@ -1233,6 +1233,86 @@
   top: 42579px;
   width: 1373px;
   height: 229px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.zzz {
+  width: 1236px;
+  height: 1225px;
+  position: absolute;
+  left: 189px;
+  top: 43175px;
+  object-fit: cover;
+}
+.group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 189px;
+  top: 42808px;
+  width: 1236px;
+  height: 367px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.code-int-base-2-led-i-o-int-num-6-led-int-i-0-void-setup-for-int-i-base-i-base-num-i-pin-mode-i-output-i-o-void-loop-for-i-base-i-base-num-i-i-2-digital-write-i-low-i-o-delay-200-for-i-base-i-base-num-i-digital-write-i-high-i-o-delay-200 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 189px;
+  top: 44408px;
+  width: 1236px;
+  height: 1281px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 274px;
+  top: 45548px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.after-uploading-the-effect-can-be-seen-as-follows-six-led-lights-are-lit-from-right-to-left-and-then-turned-off-from-right-to-left {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 189px;
+  top: 45656px;
+  width: 1112px;
+  height: 269px;
   display: flex;
   align-items: center;
   justify-content: flex-start;

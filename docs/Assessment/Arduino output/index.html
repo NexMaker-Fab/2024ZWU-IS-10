@@ -36,7 +36,7 @@
        padding: 0;
    }
    </style>
-  <title>4AOL</title>
+  <title>Document</title>
 </head>
 <body>
   <div class="arduino">
@@ -73,11 +73,11 @@
       <img class="_2024-05-21-08-18-1" src="_2024-05-21-08-18-10.png" />
       <div class="navigation">
         <div class="items">
-          <a class="assessment"href="https://nexmaker-fab.github.io/2024ZWU-IS-10-4AOL/Assessment/index.html">Assessment</a>
-          <a class="member"href="https://nexmaker-fab.github.io/2024ZWU-IS-10-4AOL/member/index.html">Member</a>
-          <a class="team"href="https://nexmaker-fab.github.io/2024ZWU-IS-10-4AOL/Team/index.html">Team</a>
+          <div class="assessment">Assessment</div>
+          <div class="member">Member</div>
+          <div class="team">Team</div>
           <div class="button">
-          <a class="home"href="https://nexmaker-fab.github.io/2024ZWU-IS-10-4AOL/#/">Home</a>
+            <div class="home">Home</div>
           </div>
         </div>
         <div class="final-work">Final work</div>
@@ -1321,6 +1321,85 @@
       *Reference from CSDN
       https://blog.csdn.net/m0_74816353/article/details/134276485
       <br />
+    </div>
+    <img class="zzz" src="zzz0.png" />
+    <div
+      class="group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method"
+    >
+      <span>
+        <span
+          class="group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method-span"
+        >
+          Group Case - Flowing Water Lamp
+          <br />
+          <br />
+          Need: arduino board, breadboard, several jumpers, 6 LED lights, 6 220
+          ohm resistors
+          <br />
+          <br />
+          Wiring method
+        </span>
+        <span
+          class="group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method-span2"
+        >
+          :
+          <br />
+        </span>
+      </span>
+    </div>
+    <div
+      class="code-int-base-2-led-i-o-int-num-6-led-int-i-0-void-setup-for-int-i-base-i-base-num-i-pin-mode-i-output-i-o-void-loop-for-i-base-i-base-num-i-i-2-digital-write-i-low-i-o-delay-200-for-i-base-i-base-num-i-digital-write-i-high-i-o-delay-200"
+    >
+      Code:
+      <br />
+      int BASE = 2 ; //第一颗 LED 接的 I/O 脚
+      <br />
+      int NUM = 6; //LED 的总数
+      <br />
+      int i=0; void setup()
+      <br />
+      &lcub;
+      <br />
+      for (int i = BASE; i &lt; BASE + NUM; i ++)
+      <br />
+      &lcub;
+      <br />
+      pinMode(i, OUTPUT); //设定数字I/O脚为输出
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+      <br />
+      void loop()
+      <br />
+      &lcub; for (i = BASE; i &lt; BASE + NUM; i =i+2)
+      <br />
+      &lcub; digitalWrite(i, LOW); //设定数字I/O脚出为&quot;低&quot;，即顺序熄灭
+      <br />
+      delay(200); //延时
+      <br />
+      &rcub;
+      <br />
+      for (i = BASE; i &lt; BASE + NUM; i ++)
+      <br />
+      &lcub;
+      <br />
+      digitalWrite(i, HIGH); //设定数字I/O脚输出为&quot;高&quot;，即顺序点亮
+      <br />
+      delay(200); //延时
+      <br />
+      &rcub;
+      <br />
+      &rcub;
+    </div>
+    <div class="text">
+      <br />
+    </div>
+    <div
+      class="after-uploading-the-effect-can-be-seen-as-follows-six-led-lights-are-lit-from-right-to-left-and-then-turned-off-from-right-to-left"
+    >
+      After uploading, the effect can be seen as follows: six LED lights are lit
+      from right to left, and then turned off from right to left.
     </div>
   </div>
   
