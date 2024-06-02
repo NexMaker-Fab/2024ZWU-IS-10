@@ -1,4 +1,6 @@
 <div class="arduino">
+  <div class="rectangle-35"></div>
+  <div class="rectangle-352"></div>
   <img class="e" src="e0.png" />
   <img class="d" src="d0.png" />
   <img class="g" src="g0.png" />
@@ -28,25 +30,6 @@
     Circuits (for electronic circuits). Here&#039;s a breakdown of the process
     and the layout of the Circuits editor:
   </div>
-  <div class="ardunio-input">
-    <img class="_2024-05-21-08-18-1" src="_2024-05-21-08-18-10.png" />
-    <div class="navigation">
-      <div class="items">
-        <div class="assessment">Assessment</div>
-        <div class="member">Member</div>
-        <div class="team">Team</div>
-        <div class="button">
-          <div class="home">Home</div>
-        </div>
-      </div>
-      <div class="final-work">Final work</div>
-      <div class="_4-aol">4AOL</div>
-    </div>
-    <img class="_2024-05-21-10-06-1" src="_2024-05-21-10-06-10.png" />
-    <img class="_2024-05-21-10-02-1" src="_2024-05-21-10-02-10.png" />
-    <img class="_2024-05-21-10-18-1" src="_2024-05-21-10-18-10.png" />
-    <div class="ultrasonic-sensor">Ultrasonic sensor</div>
-  </div>
   <div
     class="dashboard-overview-go-to-tinkercad-s-website-and-log-in-or-create-an-account-if-you-don-t-have-one-when-you-access-your-tinkercad-dashboard-you-ll-see-a-list-of-your-existing-designs-organized-by-type-3-d-codeblocks-circuits-you-can-scroll-through-your-designs-to-find-the-one-you-want-to-work-on"
   >
@@ -57,7 +40,7 @@
     the one you want to work on.
   </div>
   <div class="navigation">
-    <div class="items2">
+    <div class="items">
       <div class="assessment">Assessment</div>
       <div class="member">Member</div>
       <div class="team">Team</div>
@@ -1281,7 +1264,6 @@
     https://blog.csdn.net/m0_74816353/article/details/134276485
     <br />
   </div>
-  <img class="zzz" src="zzz0.png" />
   <div
     class="group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method"
   >
@@ -1307,45 +1289,45 @@
     </span>
   </div>
   <div
-    class="code-int-base-2-led-i-o-int-num-6-led-int-i-0-void-setup-for-int-i-base-i-base-num-i-pin-mode-i-output-i-o-void-loop-for-i-base-i-base-num-i-i-2-digital-write-i-low-i-o-delay-200-for-i-base-i-base-num-i-digital-write-i-high-i-o-delay-200"
+    class="code-int-led-pins-2-3-4-5-6-7-led-int-num-leds-sizeof-led-pins-sizeof-led-pins-0-void-setup-for-int-i-0-i-num-leds-i-pin-mode-led-pins-i-output-void-loop-for-int-i-0-i-num-leds-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low-for-int-i-num-leds-2-i-0-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low"
   >
     Code:
     <br />
-    int BASE = 2 ; //第一颗 LED 接的 I/O 脚
+    int ledPins[] = &lcub;2, 3, 4, 5, 6, 7&rcub;; // 定义 LED 引脚数组
     <br />
-    int NUM = 6; //LED 的总数
+    int numLeds = sizeof(ledPins) / sizeof(ledPins[0]);
     <br />
-    int i=0; void setup()
     <br />
-    &lcub;
+    void setup() &lcub;
     <br />
-    for (int i = BASE; i &lt; BASE + NUM; i ++)
+    for (int i = 0; i &lt; numLeds; i++) &lcub;
     <br />
-    &lcub;
-    <br />
-    pinMode(i, OUTPUT); //设定数字I/O脚为输出
+    pinMode(ledPins[i], OUTPUT);
     <br />
     &rcub;
     <br />
     &rcub;
     <br />
-    void loop()
     <br />
-    &lcub; for (i = BASE; i &lt; BASE + NUM; i =i+2)
+    void loop() &lcub;
     <br />
-    &lcub; digitalWrite(i, LOW); //设定数字I/O脚出为&quot;低&quot;，即顺序熄灭
+    for (int i = 0; i &lt; numLeds; i++) &lcub;
     <br />
-    delay(200); //延时
+    digitalWrite(ledPins[i], HIGH);
+    <br />
+    delay(100);
+    <br />
+    digitalWrite(ledPins[i], LOW);
     <br />
     &rcub;
     <br />
-    for (i = BASE; i &lt; BASE + NUM; i ++)
+    for (int i = numLeds - 2; i &gt;= 0; i--) &lcub;
     <br />
-    &lcub;
+    digitalWrite(ledPins[i], HIGH);
     <br />
-    digitalWrite(i, HIGH); //设定数字I/O脚输出为&quot;高&quot;，即顺序点亮
+    delay(100);
     <br />
-    delay(200); //延时
+    digitalWrite(ledPins[i], LOW);
     <br />
     &rcub;
     <br />
@@ -1360,4 +1342,6 @@
     After uploading, the effect can be seen as follows: six LED lights are lit
     from right to left, and then turned off from right to left.
   </div>
+  <img class="aaaa" src="aaaa0.png" />
+  <img class="gif-2" src="gif-20.png" />
 </div>

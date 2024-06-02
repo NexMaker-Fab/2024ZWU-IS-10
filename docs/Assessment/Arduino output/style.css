@@ -4,9 +4,25 @@
 }
 .arduino {
   background: #ffffff;
-  height: 46053px;
+  height: 47275px;
   position: relative;
   overflow: hidden;
+}
+.rectangle-35 {
+  background: #f1f1f1;
+  width: 1373px;
+  height: 1216px;
+  position: absolute;
+  left: 151px;
+  top: 44471px;
+}
+.rectangle-352 {
+  background: #f1f1f1;
+  width: 1373px;
+  height: 6819px;
+  position: absolute;
+  left: 151px;
+  top: 35731px;
 }
 .e {
   width: 1236px;
@@ -80,22 +96,21 @@
   align-items: center;
   justify-content: flex-start;
 }
-.ardunio-input {
-  background: #ffffff;
-  width: 1677px;
-  height: 14223px;
+.dashboard-overview-go-to-tinkercad-s-website-and-log-in-or-create-an-account-if-you-don-t-have-one-when-you-access-your-tinkercad-dashboard-you-ll-see-a-list-of-your-existing-designs-organized-by-type-3-d-codeblocks-circuits-you-can-scroll-through-your-designs-to-find-the-one-you-want-to-work-on {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
   position: absolute;
-  left: -8830px;
-  top: 21151px;
-  overflow: hidden;
-}
-._2024-05-21-08-18-1 {
-  width: 1537px;
-  height: 1354px;
-  position: absolute;
-  left: 80px;
-  top: 157px;
-  object-fit: cover;
+  left: 204px;
+  top: 15111px;
+  width: 1236px;
+  height: 248px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 .navigation {
   background: #ffffff;
@@ -112,6 +127,7 @@
   gap: var(--spacing-m, 48px);
   align-items: center;
   justify-content: flex-end;
+  width: 679px;
   position: absolute;
   right: 80px;
   top: 56px;
@@ -207,73 +223,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-}
-._2024-05-21-10-06-1 {
-  width: 1196px;
-  height: 1122px;
-  position: absolute;
-  left: 241px;
-  top: 4350px;
-  object-fit: cover;
-}
-._2024-05-21-10-02-1 {
-  width: 1328px;
-  height: 1285px;
-  position: absolute;
-  left: 175px;
-  top: 2984px;
-  object-fit: cover;
-}
-._2024-05-21-10-18-1 {
-  width: 1420px;
-  height: 568px;
-  position: absolute;
-  left: 129px;
-  top: 5552px;
-  object-fit: cover;
-}
-.ultrasonic-sensor {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Medium", sans-serif;
-  font-size: 96px;
-  line-height: 150%;
-  font-weight: 500;
-  position: absolute;
-  left: 175px;
-  top: 2723px;
-  width: 1134px;
-  height: 261px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.dashboard-overview-go-to-tinkercad-s-website-and-log-in-or-create-an-account-if-you-don-t-have-one-when-you-access-your-tinkercad-dashboard-you-ll-see-a-list-of-your-existing-designs-organized-by-type-3-d-codeblocks-circuits-you-can-scroll-through-your-designs-to-find-the-one-you-want-to-work-on {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 32px;
-  line-height: 150%;
-  font-weight: 400;
-  position: absolute;
-  left: 204px;
-  top: 15111px;
-  width: 1236px;
-  height: 248px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-}
-.items2 {
-  display: flex;
-  flex-direction: row;
-  gap: var(--spacing-m, 48px);
-  align-items: center;
-  justify-content: flex-end;
-  width: 679px;
-  position: absolute;
-  right: 80px;
-  top: 56px;
 }
 .creating-a-new-design-to-create-a-new-design-in-the-circuits-editor-click-on-the-design-and-then-click-the-create-option-after-that-select-circuit-this-action-allows-you-to-start-a-fresh-circuit-project {
   color: #000000;
@@ -1237,14 +1186,6 @@
   align-items: center;
   justify-content: flex-start;
 }
-.zzz {
-  width: 1236px;
-  height: 1225px;
-  position: absolute;
-  left: 189px;
-  top: 43175px;
-  object-fit: cover;
-}
 .group-case-flowing-water-lamp-need-arduino-board-breadboard-several-jumpers-6-led-lights-6-220-ohm-resistors-wiring-method {
   color: #000000;
   text-align: left;
@@ -1271,7 +1212,7 @@
   line-height: 150%;
   font-weight: 400;
 }
-.code-int-base-2-led-i-o-int-num-6-led-int-i-0-void-setup-for-int-i-base-i-base-num-i-pin-mode-i-output-i-o-void-loop-for-i-base-i-base-num-i-i-2-digital-write-i-low-i-o-delay-200-for-i-base-i-base-num-i-digital-write-i-high-i-o-delay-200 {
+.code-int-led-pins-2-3-4-5-6-7-led-int-num-leds-sizeof-led-pins-sizeof-led-pins-0-void-setup-for-int-i-0-i-num-leds-i-pin-mode-led-pins-i-output-void-loop-for-int-i-0-i-num-leds-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low-for-int-i-num-leds-2-i-0-i-digital-write-led-pins-i-high-delay-100-digital-write-led-pins-i-low {
   color: #000000;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;
@@ -1282,7 +1223,7 @@
   left: 189px;
   top: 44408px;
   width: 1236px;
-  height: 1281px;
+  height: 1328px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1316,4 +1257,20 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
+}
+.aaaa {
+  width: 1373px;
+  height: 1280px;
+  position: absolute;
+  left: 151px;
+  top: 43148px;
+  object-fit: cover;
+}
+.gif-2 {
+  width: 1360px;
+  height: 1243px;
+  position: absolute;
+  left: 158px;
+  top: 45867px;
+  object-fit: cover;
 }
