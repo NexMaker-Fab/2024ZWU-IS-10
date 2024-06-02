@@ -4,7 +4,7 @@
 }
 .div {
   background: #ffffff;
-  height: 32515px;
+  height: 35771px;
   position: relative;
   overflow: hidden;
 }
@@ -13,8 +13,8 @@
   width: 1027px;
   height: 465px;
   position: absolute;
-  left: 321px;
-  top: 27273px;
+  left: 310px;
+  top: 30250px;
 }
 .navigation {
   background: #ffffff;
@@ -909,13 +909,37 @@
   align-items: center;
   justify-content: flex-start;
 }
-.image-11 {
+.image-28 {
   width: 1027px;
-  height: 538px;
+  height: 524.14px;
   position: absolute;
-  left: 323px;
-  top: 12399px;
+  left: 310px;
+  top: 12463px;
   object-fit: cover;
+}
+.rectangle-76 {
+  background: #d9d9d9;
+  width: 1027px;
+  height: 2716px;
+  position: absolute;
+  left: 310px;
+  top: 13083px;
+}
+.doctype-html-html-lang-en-head-meta-charset-utf-8-meta-http-equiv-x-ua-compatible-content-ie-edge-meta-name-viewport-content-width-device-width-initial-scale-1-0-link-rel-stylesheet-href-vars-css-link-rel-stylesheet-href-style-css-style-a-button-input-select-h-1-h-2-h-3-h-4-h-5-box-sizing-border-box-margin-0-padding-0-border-none-text-decoration-none-appearance-none-background-none-webkit-font-smoothing-antialiased-menu-ol-ul-list-style-type-none-margin-0-padding-0-style-title-4-aol-title-head-body-div-class-div-style-background-url-div-png-center-background-size-cover-background-repeat-no-repeat-div-class-welcome-to-our-group-welcome-to-our-group-div-div-class-button-a-class-member-href-member-index-html-member-a-div-div-class-00-button-a-class-assessment-href-assessment-index-html-assessment-a-div-div-class-00-button-2-div-class-final-work-final-work-div-div-div-class-00-button-3-div-class-frame-1-a-class-team-href-team-index-html-team-a-div-div-div-class-4-aol-4-aol-div-div-body-html {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 300;
+  position: absolute;
+  left: 390px;
+  top: 13083px;
+  width: 871px;
+  height: 2651px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 .headings-use-the-h-1-to-h-6-tags-for-headings-the-lower-the-number-the-larger-the-heading {
   color: #000000;
@@ -925,8 +949,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 325px;
-  top: 12973px;
+  left: 314px;
+  top: 15950px;
   width: 1027px;
   height: 126px;
   display: flex;
@@ -952,8 +976,8 @@
   width: 504px;
   height: 211px;
   position: absolute;
-  left: 540px;
-  top: 13161px;
+  left: 529px;
+  top: 16138px;
 }
 .h-1-this-is-a-heading-1-h-1-h-2-this-is-a-heading-2-h-2-h-6-this-is-a-heading-6-h-6 {
   color: #000000;
@@ -963,8 +987,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 575px;
-  top: 13204px;
+  left: 564px;
+  top: 16181px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -977,8 +1001,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 322px;
-  top: 13431px;
+  left: 311px;
+  top: 16408px;
   width: 1027px;
   height: 115px;
   display: flex;
@@ -1004,15 +1028,15 @@
   width: 504px;
   height: 437px;
   position: absolute;
-  left: 540px;
-  top: 13588px;
+  left: 529px;
+  top: 16565px;
 }
 .ul-li-item-1-li-li-item-2-li-li-item-3-li-ul-ol-li-first-item-li-li-second-item-li-li-third-item-li-ol {
   color: #000000;
   text-align: left;
   position: absolute;
-  left: 542px;
-  top: 13588px;
+  left: 531px;
+  top: 16565px;
   width: 502px;
   height: 437px;
   display: flex;
@@ -1041,8 +1065,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 322px;
-  top: 14025px;
+  left: 311px;
+  top: 17002px;
   width: 1027px;
   height: 101px;
   display: flex;
@@ -1068,8 +1092,8 @@
   width: 509px;
   height: 111px;
   position: absolute;
-  left: 540px;
-  top: 14165px;
+  left: 529px;
+  top: 17142px;
 }
 .a-href-https-www-example-com-visit-example-com-a {
   color: #000000;
@@ -1079,8 +1103,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 560px;
-  top: 14170px;
+  left: 549px;
+  top: 17147px;
   width: 489px;
   height: 108px;
   display: flex;
@@ -1095,8 +1119,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 322px;
-  top: 14276px;
+  left: 311px;
+  top: 17253px;
   width: 1027px;
   height: 143px;
   display: flex;
@@ -1122,8 +1146,8 @@
   width: 608px;
   height: 111px;
   position: absolute;
-  left: 540px;
-  top: 14450px;
+  left: 529px;
+  top: 17427px;
 }
 .p-this-is-a-paragraph-of-text-on-my-web-page-p {
   color: #000000;
@@ -1133,8 +1157,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 550px;
-  top: 14455px;
+  left: 539px;
+  top: 17432px;
   width: 598px;
   height: 106px;
   display: flex;
@@ -1149,8 +1173,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 325px;
-  top: 14592px;
+  left: 314px;
+  top: 17569px;
   width: 1027px;
   height: 152px;
   display: flex;
@@ -1176,8 +1200,8 @@
   width: 867px;
   height: 69px;
   position: absolute;
-  left: 466px;
-  top: 14773px;
+  left: 455px;
+  top: 17750px;
 }
 .img-src-path-to-your-image-jpg-alt-description-of-the-image {
   color: #000000;
@@ -1187,8 +1211,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 536px;
-  top: 14786px;
+  left: 525px;
+  top: 17763px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1201,8 +1225,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 325px;
-  top: 14872px;
+  left: 314px;
+  top: 17849px;
   width: 1027px;
   height: 129px;
   display: flex;
@@ -1231,8 +1255,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 325px;
-  top: 15251px;
+  left: 314px;
+  top: 18228px;
   width: 1149px;
   height: 431px;
   display: flex;
@@ -1269,8 +1293,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 15646px;
+  left: 310px;
+  top: 18623px;
   width: 1027px;
   height: 1239px;
   display: flex;
@@ -1296,8 +1320,8 @@
   width: 1100px;
   height: 125px;
   position: absolute;
-  left: 352px;
-  top: 15079px;
+  left: 341px;
+  top: 18056px;
 }
 .div-style-color-blue-this-is-a-blue-block-of-text-div-p-this-is-a-span-style-font-weight-bold-bold-span-word-in-a-paragraph-p {
   color: #000000;
@@ -1307,8 +1331,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 431px;
-  top: 15104px;
+  left: 420px;
+  top: 18081px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -1317,8 +1341,8 @@
   width: 1027px;
   height: 705.75px;
   position: absolute;
-  left: 321px;
-  top: 16870px;
+  left: 310px;
+  top: 19847px;
   object-fit: cover;
 }
 .rectangle-20 {
@@ -1329,8 +1353,8 @@
   width: 259px;
   height: 42px;
   position: absolute;
-  left: 321px;
-  top: 16908px;
+  left: 310px;
+  top: 19885px;
 }
 .rectangle-21 {
   background: rgba(217, 217, 217, 0);
@@ -1340,8 +1364,8 @@
   width: 259px;
   height: 51px;
   position: absolute;
-  left: 817px;
-  top: 16903px;
+  left: 806px;
+  top: 19880px;
 }
 .rectangle-22 {
   background: rgba(217, 217, 217, 0);
@@ -1351,8 +1375,8 @@
   width: 259px;
   height: 176px;
   position: absolute;
-  left: 321px;
-  top: 17370px;
+  left: 310px;
+  top: 20347px;
 }
 .rectangle-24 {
   background: rgba(217, 217, 217, 0);
@@ -1362,8 +1386,8 @@
   width: 259px;
   height: 40px;
   position: absolute;
-  left: 321px;
-  top: 17536px;
+  left: 310px;
+  top: 20513px;
 }
 .rectangle-23 {
   background: rgba(217, 217, 217, 0);
@@ -1373,15 +1397,15 @@
   width: 638px;
   height: 112px;
   position: absolute;
-  left: 642px;
-  top: 17119px;
+  left: 631px;
+  top: 20096px;
 }
 ._4-designing-in-figma-figma-is-a-ui-design-software-we-used-figma-as-a-basis-for-what-we-intend-the-website-design-to-look-like-we-also-use-figma-with-the-assistance-of-plugins-for-the-html-css-code-then-take-the-necessary-measures-to-make-it-a-working-website-a-designing-the-website-in-figma-below-is-a-screenshot-of-the-design-workflow-pages-are-placed-side-by-side-with-shared-elements-to-ensure-continuity-in-design {
   color: #000000;
   text-align: left;
   position: absolute;
-  left: 321px;
-  top: 17745px;
+  left: 310px;
+  top: 20722px;
   width: 1027px;
   height: 519px;
   display: flex;
@@ -1420,8 +1444,8 @@
   width: 1027px;
   height: 549.02px;
   position: absolute;
-  left: 321px;
-  top: 18333px;
+  left: 310px;
+  top: 21310px;
   object-fit: cover;
 }
 .b-we-toggle-between-design-mode-and-developer-mode-in-figma-design-mode-allows-us-to-add-elements-such-as-text-images-shapes-layers-colours-etc-examples-design-mode-design-mode-toggle-for-inserting-elements-in-the-frame-to-design-the-page-in-design-mode-we-toggle-between-elemental-tools-tabs-to-organize-them-and-the-design-tools-sidebar-to-edit {
@@ -1432,8 +1456,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 18951px;
+  left: 310px;
+  top: 21928px;
   width: 1027px;
   height: 578px;
   display: flex;
@@ -1458,16 +1482,16 @@
   width: 1027px;
   height: 547.41px;
   position: absolute;
-  left: 321px;
-  top: 19598px;
+  left: 310px;
+  top: 22575px;
   object-fit: cover;
 }
 .image-15 {
   width: 1027px;
   height: 547.41px;
   position: absolute;
-  left: 321px;
-  top: 20653px;
+  left: 310px;
+  top: 23630px;
   object-fit: cover;
 }
 .below-is-an-illustration-of-how-we-created-the-page-and-various-tools-used-in-figma-by-adding-elements-such-as-the-frame-for-the-page-shapes-and-texts-are-layered-for-the-buttons-on-the-right-sidebar-we-can-view-and-change-various-parameters-in-the-design-we-can-align-the-text-buttons-shapes-use-creation-tools-to-make-icons-edit-texts-colors-and-grids-of-the-page-we-played-with-these-various-features-and-reach-the-result-of-the-prototype-for-the-landing-page-and-other-supporting-website-pages {
@@ -1478,8 +1502,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 20214px;
+  left: 310px;
+  top: 23191px;
   width: 1027px;
   height: 439px;
   display: flex;
@@ -1494,8 +1518,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 324px;
-  top: 21200px;
+  left: 313px;
+  top: 24177px;
   width: 1027px;
   height: 729px;
   display: flex;
@@ -1506,16 +1530,16 @@
   width: 1027px;
   height: 549.42px;
   position: absolute;
-  left: 324px;
-  top: 21958px;
+  left: 313px;
+  top: 24935px;
   object-fit: cover;
 }
 .html-and-css-files-pushed-to-the-repository-and-viewed-in-vscode-this-is-where-we-will-edit-elements-of-the-pages-and-continuously-add-information-over-the-course-of-the-assignments-how-to-make-a-web-page-using-figma-for-a-simple-instruction-using-figma-for-webpage-building-1-on-the-figma-homepage-we-select-design-file-to-start-designing-our-page {
   color: #000000;
   text-align: left;
   position: absolute;
-  left: 321px;
-  top: 22536px;
+  left: 310px;
+  top: 25513px;
   width: 1027px;
   height: 573px;
   display: flex;
@@ -1551,8 +1575,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 23675px;
+  left: 310px;
+  top: 26652px;
   width: 1027px;
   height: 179px;
   display: flex;
@@ -1563,16 +1587,16 @@
   width: 1027px;
   height: 547.01px;
   position: absolute;
-  left: 321px;
-  top: 23109px;
+  left: 310px;
+  top: 26086px;
   object-fit: cover;
 }
 .image-17 {
   width: 1027px;
   height: 547.01px;
   position: absolute;
-  left: 324px;
-  top: 23858px;
+  left: 313px;
+  top: 26835px;
   object-fit: cover;
 }
 .below-is-what-is-an-example-of-the-setup-for-our-canvas-selecting-frame-sets-up-its-own-layers-where-we-will-setup-the-rest-of-the-page {
@@ -1583,8 +1607,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 24455px;
+  left: 310px;
+  top: 27432px;
   width: 1027px;
   height: 177px;
   display: flex;
@@ -1595,8 +1619,8 @@
   width: 1027px;
   height: 526.58px;
   position: absolute;
-  left: 321px;
-  top: 24632px;
+  left: 310px;
+  top: 27609px;
   object-fit: cover;
 }
 ._3-we-are-adding-text-these-are-simple-texts-on-the-login-page-aimed-at-attracting-the-attention-of-visiting-users-for-modifying-text-we-select-the-text-box-on-the-right-and-adjust-various-elements-including-size-font-type-paragraph-alignment-etc {
@@ -1607,8 +1631,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 25209px;
+  left: 310px;
+  top: 28186px;
   width: 1027px;
   height: 249px;
   display: flex;
@@ -1619,8 +1643,8 @@
   width: 1027px;
   height: 526.94px;
   position: absolute;
-  left: 321px;
-  top: 25487px;
+  left: 310px;
+  top: 28464px;
   object-fit: cover;
 }
 .linking-pages {
@@ -1631,8 +1655,8 @@
   line-height: 150%;
   font-weight: 600;
   position: absolute;
-  left: 321px;
-  top: 26014px;
+  left: 310px;
+  top: 28991px;
   width: 402px;
   height: 139px;
   display: flex;
@@ -1647,8 +1671,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 26121px;
+  left: 310px;
+  top: 29098px;
   width: 1027px;
   height: 357px;
   display: flex;
@@ -1659,8 +1683,8 @@
   width: 1027px;
   height: 598.2px;
   position: absolute;
-  left: 321px;
-  top: 26478px;
+  left: 310px;
+  top: 29455px;
   object-fit: cover;
 }
 .the-code-connecting-assignments-index-html-team-index-html-member-index-html-pages-from-the-home-index-html-page-is-as-follows {
@@ -1671,8 +1695,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 27091px;
+  left: 310px;
+  top: 30068px;
   width: 1027px;
   height: 198px;
   display: flex;
@@ -1687,8 +1711,8 @@
   line-height: 150%;
   font-weight: 300;
   position: absolute;
-  left: 347px;
-  top: 27284px;
+  left: 336px;
+  top: 30261px;
   width: 1001px;
   height: 426px;
   display: flex;
@@ -1703,8 +1727,8 @@
   line-height: 150%;
   font-weight: 600;
   position: absolute;
-  left: 321px;
-  top: 27777px;
+  left: 310px;
+  top: 30754px;
   width: 677px;
   height: 95px;
   display: flex;
@@ -1719,8 +1743,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 27872px;
+  left: 310px;
+  top: 30849px;
   width: 1027px;
   height: 256px;
   display: flex;
@@ -1731,48 +1755,48 @@
   width: 1027px;
   height: 601.45px;
   position: absolute;
-  left: 321px;
-  top: 28105px;
+  left: 310px;
+  top: 31082px;
   object-fit: cover;
 }
 .image-24 {
   width: 1027px;
   height: 525.58px;
   position: absolute;
-  left: 324px;
-  top: 29307px;
+  left: 313px;
+  top: 32284px;
   object-fit: cover;
 }
 .image-23 {
   width: 1027px;
   height: 522.93px;
   position: absolute;
-  left: 324px;
-  top: 28727px;
+  left: 313px;
+  top: 31704px;
   object-fit: cover;
 }
 .image-25 {
   width: 1027px;
   height: 545.81px;
   position: absolute;
-  left: 324px;
-  top: 29896px;
+  left: 313px;
+  top: 32873px;
   object-fit: cover;
 }
 .image-26 {
   width: 1027px;
   height: 544.6px;
   position: absolute;
-  left: 321px;
-  top: 30576px;
+  left: 310px;
+  top: 33553px;
   object-fit: cover;
 }
 .image-27 {
   width: 1027px;
   height: 546.78px;
   position: absolute;
-  left: 321px;
-  top: 31217px;
+  left: 310px;
+  top: 34194px;
   object-fit: cover;
 }
 .rectangle-50 {
@@ -1783,8 +1807,8 @@
   width: 227px;
   height: 39px;
   position: absolute;
-  left: 344px;
-  top: 19616px;
+  left: 333px;
+  top: 22593px;
 }
 .rectangle-51 {
   background: rgba(217, 217, 217, 0);
@@ -1794,8 +1818,8 @@
   width: 585px;
   height: 362px;
   position: absolute;
-  left: 520px;
-  top: 19700px;
+  left: 509px;
+  top: 22677px;
 }
 .rectangle-54 {
   background: rgba(217, 217, 217, 0);
@@ -1805,8 +1829,8 @@
   width: 585px;
   height: 362px;
   position: absolute;
-  left: 512px;
-  top: 20783px;
+  left: 501px;
+  top: 23760px;
 }
 .rectangle-52 {
   background: rgba(217, 217, 217, 0);
@@ -1816,8 +1840,8 @@
   width: 147px;
   height: 495px;
   position: absolute;
-  left: 321px;
-  top: 19650px;
+  left: 310px;
+  top: 22627px;
 }
 .rectangle-66 {
   background: rgba(217, 217, 217, 0);
@@ -1827,8 +1851,8 @@
   width: 147px;
   height: 253px;
   position: absolute;
-  left: 1201px;
-  top: 19650px;
+  left: 1190px;
+  top: 22627px;
 }
 .rectangle-53 {
   background: rgba(217, 217, 217, 0);
@@ -1838,8 +1862,8 @@
   width: 219px;
   height: 178px;
   position: absolute;
-  left: 624px;
-  top: 23216px;
+  left: 613px;
+  top: 26193px;
 }
 .rectangle-55 {
   background: rgba(217, 217, 217, 0);
@@ -1849,8 +1873,8 @@
   width: 75px;
   height: 43px;
   position: absolute;
-  left: 350px;
-  top: 23874px;
+  left: 339px;
+  top: 26851px;
 }
 .rectangle-56 {
   background: rgba(217, 217, 217, 0);
@@ -1860,8 +1884,8 @@
   width: 153px;
   height: 26px;
   position: absolute;
-  left: 1203px;
-  top: 24066px;
+  left: 1192px;
+  top: 27043px;
 }
 .rectangle-57 {
   background: rgba(217, 217, 217, 0);
@@ -1871,8 +1895,8 @@
   width: 142px;
   height: 26px;
   position: absolute;
-  left: 324px;
-  top: 24684px;
+  left: 313px;
+  top: 27661px;
 }
 .rectangle-59 {
   background: rgba(217, 217, 217, 0);
@@ -1882,8 +1906,8 @@
   width: 142px;
   height: 26px;
   position: absolute;
-  left: 326px;
-  top: 25938px;
+  left: 315px;
+  top: 28915px;
 }
 .rectangle-60 {
   background: rgba(217, 217, 217, 0);
@@ -1893,8 +1917,8 @@
   width: 142px;
   height: 86px;
   position: absolute;
-  left: 1206px;
-  top: 25636px;
+  left: 1195px;
+  top: 28613px;
 }
 .rectangle-67 {
   background: rgba(217, 217, 217, 0);
@@ -1904,8 +1928,8 @@
   width: 142px;
   height: 156px;
   position: absolute;
-  left: 1206px;
-  top: 25736px;
+  left: 1195px;
+  top: 28713px;
 }
 .rectangle-61 {
   background: rgba(217, 217, 217, 0);
@@ -1915,8 +1939,8 @@
   width: 222px;
   height: 62px;
   position: absolute;
-  left: 1129px;
-  top: 28881px;
+  left: 1118px;
+  top: 31858px;
 }
 .rectangle-62 {
   background: rgba(217, 217, 217, 0);
@@ -1926,8 +1950,8 @@
   width: 178px;
   height: 33px;
   position: absolute;
-  left: 405px;
-  top: 29593px;
+  left: 394px;
+  top: 32570px;
 }
 .rectangle-63 {
   background: rgba(217, 217, 217, 0);
@@ -1937,8 +1961,8 @@
   width: 178px;
   height: 33px;
   position: absolute;
-  left: 914px;
-  top: 31028px;
+  left: 903px;
+  top: 34005px;
 }
 .rectangle-64 {
   background: rgba(217, 217, 217, 0);
@@ -1948,8 +1972,8 @@
   width: 178px;
   height: 33px;
   position: absolute;
-  left: 447px;
-  top: 31401px;
+  left: 436px;
+  top: 34378px;
 }
 .rectangle-65 {
   background: rgba(217, 217, 217, 0);
@@ -1959,8 +1983,8 @@
   width: 178px;
   height: 33px;
   position: absolute;
-  left: 958px;
-  top: 31603px;
+  left: 947px;
+  top: 34580px;
 }
 .rectangle-58 {
   background: rgba(217, 217, 217, 0);
@@ -1970,15 +1994,15 @@
   width: 77px;
   height: 35px;
   position: absolute;
-  left: 337px;
-  top: 24632px;
+  left: 326px;
+  top: 27609px;
 }
 .arrow-2 {
   width: 357.76px;
   height: 0px;
   position: absolute;
-  left: 946px;
-  top: 31614px;
+  left: 935px;
+  top: 34591px;
   transform: translate(-308px, -196.3px);
   overflow: visible;
 }
@@ -1987,8 +2011,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 338px;
-  top: 16964px;
+  left: 327px;
+  top: 19941px;
   overflow: hidden;
 }
 .add-repository {
@@ -2012,8 +2036,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 833px;
-  top: 16950px;
+  left: 822px;
+  top: 19927px;
   overflow: hidden;
 }
 .push-to-git-hub {
@@ -2037,8 +2061,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 914px;
-  top: 17231px;
+  left: 903px;
+  top: 20208px;
   overflow: hidden;
 }
 .edit-in-v-scode {
@@ -2062,8 +2086,8 @@
   width: 394px;
   height: 53px;
   position: absolute;
-  left: 580px;
-  top: 17431px;
+  left: 569px;
+  top: 20408px;
   overflow: hidden;
 }
 .add-comments-before-changes {
@@ -2087,8 +2111,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 580px;
-  top: 17523px;
+  left: 569px;
+  top: 20500px;
   overflow: hidden;
 }
 .commit-changes {
@@ -2112,8 +2136,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 571px;
-  top: 19609px;
+  left: 560px;
+  top: 22586px;
   overflow: hidden;
 }
 .elements-tools {
@@ -2137,8 +2161,8 @@
   width: 228px;
   height: 53px;
   position: absolute;
-  left: 468px;
-  top: 20083px;
+  left: 457px;
+  top: 23060px;
   overflow: hidden;
 }
 .layers-and-elements-sidebar {
@@ -2162,8 +2186,8 @@
   width: 133px;
   height: 29px;
   position: absolute;
-  left: 425px;
-  top: 23881px;
+  left: 414px;
+  top: 26858px;
   overflow: hidden;
 }
 .frame {
@@ -2187,8 +2211,8 @@
   width: 133px;
   height: 29px;
   position: absolute;
-  left: 1070px;
-  top: 24066px;
+  left: 1059px;
+  top: 27043px;
   overflow: hidden;
 }
 .frame-11 {
@@ -2196,8 +2220,8 @@
   width: 133px;
   height: 29px;
   position: absolute;
-  left: 466px;
-  top: 24684px;
+  left: 455px;
+  top: 27661px;
   overflow: hidden;
 }
 .layers {
@@ -2221,8 +2245,8 @@
   width: 133px;
   height: 29px;
   position: absolute;
-  left: 468px;
-  top: 25938px;
+  left: 457px;
+  top: 28915px;
   overflow: hidden;
 }
 .text-layer {
@@ -2246,8 +2270,8 @@
   width: 133px;
   height: 57px;
   position: absolute;
-  left: 1072px;
-  top: 25654px;
+  left: 1061px;
+  top: 28631px;
   overflow: hidden;
 }
 .element-constraints {
@@ -2271,8 +2295,8 @@
   width: 133px;
   height: 29px;
   position: absolute;
-  left: 1073px;
-  top: 25814px;
+  left: 1062px;
+  top: 28791px;
   overflow: hidden;
 }
 .text-edits {
@@ -2296,8 +2320,8 @@
   width: 240px;
   height: 80px;
   position: absolute;
-  left: 642px;
-  top: 30991px;
+  left: 631px;
+  top: 33968px;
   overflow: hidden;
 }
 .click-to-download-to-your-desktop-and-unzip {
@@ -2321,8 +2345,8 @@
   width: 218px;
   height: 95px;
   position: absolute;
-  left: 641px;
-  top: 31541px;
+  left: 630px;
+  top: 34518px;
   overflow: hidden;
 }
 .move-the-file-to-the-folder-you-want-to-place-it-in {
@@ -2346,8 +2370,8 @@
   width: 150px;
   height: 51px;
   position: absolute;
-  left: 1198px;
-  top: 19903px;
+  left: 1187px;
+  top: 22880px;
   overflow: hidden;
 }
 .editing-sidebar {
@@ -2374,8 +2398,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 1076px;
-  top: 24063px;
+  left: 1065px;
+  top: 27040px;
   width: 133px;
   height: 31px;
   display: flex;
@@ -2387,64 +2411,64 @@
   width: 71px;
   height: 27px;
   position: absolute;
-  left: 324px;
-  top: 20722px;
+  left: 313px;
+  top: 23699px;
 }
 .rectangle-69 {
   background: #d9d9d9;
   width: 85px;
   height: 27px;
   position: absolute;
-  left: 326px;
-  top: 20756px;
+  left: 315px;
+  top: 23733px;
 }
 .rectangle-70 {
   background: #d9d9d9;
   width: 82px;
   height: 27px;
   position: absolute;
-  left: 400px;
-  top: 20722px;
+  left: 389px;
+  top: 23699px;
 }
 .rectangle-75 {
   background: #d9d9d9;
   width: 92px;
   height: 27px;
   position: absolute;
-  left: 470px;
-  top: 20792px;
+  left: 459px;
+  top: 23769px;
 }
 .rectangle-71 {
   background: #d9d9d9;
   width: 70px;
   height: 27px;
   position: absolute;
-  left: 372px;
-  top: 20792px;
+  left: 361px;
+  top: 23769px;
 }
 .rectangle-72 {
   background: #d9d9d9;
   width: 91px;
   height: 27px;
   position: absolute;
-  left: 489px;
-  top: 20722px;
+  left: 478px;
+  top: 23699px;
 }
 .rectangle-74 {
   background: #d9d9d9;
   width: 80px;
   height: 27px;
   position: absolute;
-  left: 517px;
-  top: 20756px;
+  left: 506px;
+  top: 23733px;
 }
 .rectangle-73 {
   background: #d9d9d9;
   width: 95px;
   height: 27px;
   position: absolute;
-  left: 417px;
-  top: 20756px;
+  left: 406px;
+  top: 23733px;
 }
 .move-tools {
   color: #000000;
@@ -2454,8 +2478,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 324px;
-  top: 20726px;
+  left: 313px;
+  top: 23703px;
   width: 71px;
   height: 19px;
   display: flex;
@@ -2470,8 +2494,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 402px;
-  top: 20725px;
+  left: 391px;
+  top: 23702px;
   width: 77px;
   height: 20px;
   display: flex;
@@ -2486,8 +2510,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 493px;
-  top: 20727px;
+  left: 482px;
+  top: 23704px;
   width: 83px;
   height: 18px;
   display: flex;
@@ -2502,8 +2526,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 328px;
-  top: 20757px;
+  left: 317px;
+  top: 23734px;
   width: 81px;
   height: 24px;
   display: flex;
@@ -2518,8 +2542,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 419px;
-  top: 20758px;
+  left: 408px;
+  top: 23735px;
   width: 91px;
   height: 23px;
   display: flex;
@@ -2534,8 +2558,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 519px;
-  top: 20763px;
+  left: 508px;
+  top: 23740px;
   width: 96px;
   height: 14px;
   display: flex;
@@ -2550,8 +2574,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 375px;
-  top: 20795px;
+  left: 364px;
+  top: 23772px;
   width: 67px;
   height: 22px;
   display: flex;
@@ -2566,8 +2590,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 472px;
-  top: 20797px;
+  left: 461px;
+  top: 23774px;
   width: 90px;
   height: 17px;
   display: flex;
@@ -2578,8 +2602,8 @@
   width: 26.93px;
   height: 0px;
   position: absolute;
-  left: 357px;
-  top: 20727px;
+  left: 346px;
+  top: 23704px;
   transform: translate(-1.8px, -27px);
   overflow: visible;
 }
@@ -2587,8 +2611,8 @@
   width: 29px;
   height: 0px;
   position: absolute;
-  left: 427px;
-  top: 20725px;
+  left: 416px;
+  top: 23702px;
   transform: translate(-7.36px, -30px);
   overflow: visible;
 }
@@ -2596,8 +2620,8 @@
   width: 38.9px;
   height: 0px;
   position: absolute;
-  left: 513px;
-  top: 20726px;
+  left: 502px;
+  top: 23703px;
   transform: translate(-28.16px, -29px);
   overflow: visible;
 }
@@ -2605,8 +2629,8 @@
   width: 85.04px;
   height: 0px;
   position: absolute;
-  left: 591px;
-  top: 20762px;
+  left: 580px;
+  top: 23739px;
   transform: translate(-57.6px, -65px);
   overflow: visible;
 }
@@ -2614,8 +2638,8 @@
   width: 108.75px;
   height: 0px;
   position: absolute;
-  left: 504px;
-  top: 20797px;
+  left: 493px;
+  top: 23774px;
   transform: translate(-0.91px, -100px);
   overflow: visible;
 }
@@ -2623,8 +2647,8 @@
   width: 120.1px;
   height: 0px;
   position: absolute;
-  left: 439px;
-  top: 20797px;
+  left: 428px;
+  top: 23774px;
   transform: translate(-0.82px, -100px);
   overflow: visible;
 }
@@ -2632,8 +2656,8 @@
   width: 59.01px;
   height: 0px;
   position: absolute;
-  left: 396px;
-  top: 20760px;
+  left: 385px;
+  top: 23737px;
   transform: translate(-8.25px, -60px);
   overflow: visible;
 }
@@ -2641,8 +2665,8 @@
   width: 70.24px;
   height: 0px;
   position: absolute;
-  left: 498px;
-  top: 20760px;
+  left: 487px;
+  top: 23737px;
   transform: translate(-36.63px, -63px);
   overflow: visible;
 }
@@ -2654,8 +2678,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 31815px;
+  left: 310px;
+  top: 34792px;
   width: 1027px;
   height: 494px;
   display: flex;
@@ -2670,8 +2694,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 321px;
-  top: 32309px;
+  left: 310px;
+  top: 35286px;
   width: 1027px;
   height: 141px;
   display: flex;
