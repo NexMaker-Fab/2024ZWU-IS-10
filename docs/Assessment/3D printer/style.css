@@ -1,0 +1,358 @@
+._3-d-printer,
+._3-d-printer * {
+  box-sizing: border-box;
+}
+._3-d-printer {
+  background: #ffffff;
+  height: 24557px;
+  position: relative;
+  overflow: hidden;
+}
+._3-d-printer2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 80px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 262px;
+  top: 159px;
+  width: 1153px;
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._1 {
+  background: #ffffff;
+  height: 128px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-m, 48px);
+  align-items: center;
+  justify-content: flex-end;
+  width: 693px;
+  position: absolute;
+  right: 80px;
+  top: 56px;
+}
+.assessment {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.member {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.team {
+  color: #000000;
+  text-align: left;
+  font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--body-text-font-size, 20px);
+  line-height: var(--body-text-line-height, 150%);
+  font-weight: var(--body-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: #000000;
+  border-radius: 8px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 150%);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._4-aol {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cb-2784420-cff-09-ee-7-b-3977-a-34-f-34-f-6-a-1 {
+  width: 1416px;
+  height: 862px;
+  position: absolute;
+  left: 133px;
+  top: 7702px;
+  object-fit: cover;
+}
+._2-use-slice-software-to-setting-parameter {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  left: 131px;
+  top: 5585px;
+  width: 1165px;
+  height: 67px;
+}
+._3-use-3-d-printer-to-manufacture-it {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  left: 133px;
+  top: 8745px;
+  width: 1165px;
+  height: 67px;
+}
+._1-3-d-printer-new-reseach-or-application {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  left: 106px;
+  top: 379px;
+  width: 1050px;
+  height: 83px;
+}
+._62-d-53-c-29-b-16-fbe-75-fb-56610-ad-9-bff-73-1 {
+  width: 1416px;
+  height: 850px;
+  position: absolute;
+  left: 128px;
+  top: 6735px;
+  object-fit: cover;
+}
+.e-9-f-68135-ec-9-d-05-b-7252-f-214-a-8-d-14668-1 {
+  width: 1416px;
+  height: 850px;
+  position: absolute;
+  left: 133px;
+  top: 5768px;
+  object-fit: cover;
+}
+._1-f-3861-cbf-6613-e-3-fa-59333-dcc-648542-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1416px;
+  height: 848px;
+  position: absolute;
+  left: 126px;
+  top: 9860px;
+  object-fit: cover;
+}
+.new-application-for-the-first-time-in-china-efficient-additive-manufacturing-of-super-sized-copper-alloy-products-has-been-achieved-on-august-23-the-capital-aerospace-machinery-co-ltd-released-news-that-it-has-made-important-progress-in-the-metal-3-d-printing-manufacturing-of-rocket-engines-the-paper-points-out-that-capital-aerospace-machinery-co-ltd-has-successfully-realized-the-additive-manufacturing-of-the-inner-wall-test-parts-of-the-thrust-chamber-body-of-a-certain-engine-the-product-has-a-diameter-of-600-mm-and-a-height-of-850-mm-which-is-the-largest-overall-additive-manufacturing-copper-alloy-body-product-publicly-reported-at-present-and-its-successful-development-also-marks-that-the-company-has-become-the-first-unit-in-china-to-fully-master-the-large-size-chrome-zirconium-copper-alloy-laser-selective-melting-additive-manufacturing-technology-thrust-chamber-as-the-core-component-of-rocket-engine-is-a-typical-complex-and-precise-component-in-the-past-the-production-of-thrust-chamber-body-structure-involved-a-complicated-process-the-manufacturing-cycle-was-at-least-6-months-the-reliability-was-insufficient-and-the-production-cost-was-high-in-order-to-adapt-to-the-new-situation-of-high-intensity-density-launch-gradually-achieve-improving-quality-reducing-cost-and-increasing-efficiency-and-enhance-competitive-advantage-the-research-on-additive-manufacturing-technology-of-thrust-chamber-body-has-been-put-on-the-agenda-laser-selective-melting-technology-has-high-forming-precision-and-is-the-best-choice-for-additive-manufacturing-of-complex-structure-thrust-chamber-body {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 106px;
+  top: 516px;
+  width: 1456px;
+  height: 1260px;
+}
+.new-application-for-the-first-time-in-china-efficient-additive-manufacturing-of-super-sized-copper-alloy-products-has-been-achieved-on-august-23-the-capital-aerospace-machinery-co-ltd-released-news-that-it-has-made-important-progress-in-the-metal-3-d-printing-manufacturing-of-rocket-engines-the-paper-points-out-that-capital-aerospace-machinery-co-ltd-has-successfully-realized-the-additive-manufacturing-of-the-inner-wall-test-parts-of-the-thrust-chamber-body-of-a-certain-engine-the-product-has-a-diameter-of-600-mm-and-a-height-of-850-mm-which-is-the-largest-overall-additive-manufacturing-copper-alloy-body-product-publicly-reported-at-present-and-its-successful-development-also-marks-that-the-company-has-become-the-first-unit-in-china-to-fully-master-the-large-size-chrome-zirconium-copper-alloy-laser-selective-melting-additive-manufacturing-technology-thrust-chamber-as-the-core-component-of-rocket-engine-is-a-typical-complex-and-precise-component-in-the-past-the-production-of-thrust-chamber-body-structure-involved-a-complicated-process-the-manufacturing-cycle-was-at-least-6-months-the-reliability-was-insufficient-and-the-production-cost-was-high-in-order-to-adapt-to-the-new-situation-of-high-intensity-density-launch-gradually-achieve-improving-quality-reducing-cost-and-increasing-efficiency-and-enhance-competitive-advantage-the-research-on-additive-manufacturing-technology-of-thrust-chamber-body-has-been-put-on-the-agenda-laser-selective-melting-technology-has-high-forming-precision-and-is-the-best-choice-for-additive-manufacturing-of-complex-structure-thrust-chamber-body-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.new-application-for-the-first-time-in-china-efficient-additive-manufacturing-of-super-sized-copper-alloy-products-has-been-achieved-on-august-23-the-capital-aerospace-machinery-co-ltd-released-news-that-it-has-made-important-progress-in-the-metal-3-d-printing-manufacturing-of-rocket-engines-the-paper-points-out-that-capital-aerospace-machinery-co-ltd-has-successfully-realized-the-additive-manufacturing-of-the-inner-wall-test-parts-of-the-thrust-chamber-body-of-a-certain-engine-the-product-has-a-diameter-of-600-mm-and-a-height-of-850-mm-which-is-the-largest-overall-additive-manufacturing-copper-alloy-body-product-publicly-reported-at-present-and-its-successful-development-also-marks-that-the-company-has-become-the-first-unit-in-china-to-fully-master-the-large-size-chrome-zirconium-copper-alloy-laser-selective-melting-additive-manufacturing-technology-thrust-chamber-as-the-core-component-of-rocket-engine-is-a-typical-complex-and-precise-component-in-the-past-the-production-of-thrust-chamber-body-structure-involved-a-complicated-process-the-manufacturing-cycle-was-at-least-6-months-the-reliability-was-insufficient-and-the-production-cost-was-high-in-order-to-adapt-to-the-new-situation-of-high-intensity-density-launch-gradually-achieve-improving-quality-reducing-cost-and-increasing-efficiency-and-enhance-competitive-advantage-the-research-on-additive-manufacturing-technology-of-thrust-chamber-body-has-been-put-on-the-agenda-laser-selective-melting-technology-has-high-forming-precision-and-is-the-best-choice-for-additive-manufacturing-of-complex-structure-thrust-chamber-body-span2 {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 45px;
+  font-weight: 500;
+}
+.new-application-for-the-first-time-in-china-efficient-additive-manufacturing-of-super-sized-copper-alloy-products-has-been-achieved-on-august-23-the-capital-aerospace-machinery-co-ltd-released-news-that-it-has-made-important-progress-in-the-metal-3-d-printing-manufacturing-of-rocket-engines-the-paper-points-out-that-capital-aerospace-machinery-co-ltd-has-successfully-realized-the-additive-manufacturing-of-the-inner-wall-test-parts-of-the-thrust-chamber-body-of-a-certain-engine-the-product-has-a-diameter-of-600-mm-and-a-height-of-850-mm-which-is-the-largest-overall-additive-manufacturing-copper-alloy-body-product-publicly-reported-at-present-and-its-successful-development-also-marks-that-the-company-has-become-the-first-unit-in-china-to-fully-master-the-large-size-chrome-zirconium-copper-alloy-laser-selective-melting-additive-manufacturing-technology-thrust-chamber-as-the-core-component-of-rocket-engine-is-a-typical-complex-and-precise-component-in-the-past-the-production-of-thrust-chamber-body-structure-involved-a-complicated-process-the-manufacturing-cycle-was-at-least-6-months-the-reliability-was-insufficient-and-the-production-cost-was-high-in-order-to-adapt-to-the-new-situation-of-high-intensity-density-launch-gradually-achieve-improving-quality-reducing-cost-and-increasing-efficiency-and-enhance-competitive-advantage-the-research-on-additive-manufacturing-technology-of-thrust-chamber-body-has-been-put-on-the-agenda-laser-selective-melting-technology-has-high-forming-precision-and-is-the-best-choice-for-additive-manufacturing-of-complex-structure-thrust-chamber-body-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.process-support-breakthrough-3-d-printing-process-non-destructive-evaluation-90-detection-rate-the-first-study-on-3-d-printing-technology-published-in-science-in-2023-was-published-on-january-5-a-research-team-led-by-tao-sun-associate-professor-of-materials-science-and-engineering-at-the-university-of-virginia-has-made-the-discovery-that-a-method-to-detect-keyhole-generation-by-integrating-experimental-data-multi-physics-simulation-and-machine-learning-is-able-to-capture-the-unique-thermal-features-associated-with-keyhole-generation-with-sub-milliseconal-time-resolution-and-a-100-prediction-rate-researchers-at-oak-ridge-national-laboratory-have-developed-a-way-to-combine-post-inspection-data-from-printed-parts-with-information-collected-by-sensors-during-the-printing-process-and-the-combined-data-teaches-machine-learning-algorithms-to-identify-defects-in-products-this-new-method-achieves-a-90-detection-rate-which-is-consistent-with-the-defect-detection-probability-of-traditional-evaluation-methods-thus-saving-time-and-reducing-costs {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 106px;
+  top: 1971px;
+  width: 1456px;
+  height: 1200px;
+}
+.process-support-breakthrough-3-d-printing-process-non-destructive-evaluation-90-detection-rate-the-first-study-on-3-d-printing-technology-published-in-science-in-2023-was-published-on-january-5-a-research-team-led-by-tao-sun-associate-professor-of-materials-science-and-engineering-at-the-university-of-virginia-has-made-the-discovery-that-a-method-to-detect-keyhole-generation-by-integrating-experimental-data-multi-physics-simulation-and-machine-learning-is-able-to-capture-the-unique-thermal-features-associated-with-keyhole-generation-with-sub-milliseconal-time-resolution-and-a-100-prediction-rate-researchers-at-oak-ridge-national-laboratory-have-developed-a-way-to-combine-post-inspection-data-from-printed-parts-with-information-collected-by-sensors-during-the-printing-process-and-the-combined-data-teaches-machine-learning-algorithms-to-identify-defects-in-products-this-new-method-achieves-a-90-detection-rate-which-is-consistent-with-the-defect-detection-probability-of-traditional-evaluation-methods-thus-saving-time-and-reducing-costs-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.process-support-breakthrough-3-d-printing-process-non-destructive-evaluation-90-detection-rate-the-first-study-on-3-d-printing-technology-published-in-science-in-2023-was-published-on-january-5-a-research-team-led-by-tao-sun-associate-professor-of-materials-science-and-engineering-at-the-university-of-virginia-has-made-the-discovery-that-a-method-to-detect-keyhole-generation-by-integrating-experimental-data-multi-physics-simulation-and-machine-learning-is-able-to-capture-the-unique-thermal-features-associated-with-keyhole-generation-with-sub-milliseconal-time-resolution-and-a-100-prediction-rate-researchers-at-oak-ridge-national-laboratory-have-developed-a-way-to-combine-post-inspection-data-from-printed-parts-with-information-collected-by-sensors-during-the-printing-process-and-the-combined-data-teaches-machine-learning-algorithms-to-identify-defects-in-products-this-new-method-achieves-a-90-detection-rate-which-is-consistent-with-the-defect-detection-probability-of-traditional-evaluation-methods-thus-saving-time-and-reducing-costs-span2 {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 45px;
+  font-weight: 500;
+}
+.process-support-breakthrough-3-d-printing-process-non-destructive-evaluation-90-detection-rate-the-first-study-on-3-d-printing-technology-published-in-science-in-2023-was-published-on-january-5-a-research-team-led-by-tao-sun-associate-professor-of-materials-science-and-engineering-at-the-university-of-virginia-has-made-the-discovery-that-a-method-to-detect-keyhole-generation-by-integrating-experimental-data-multi-physics-simulation-and-machine-learning-is-able-to-capture-the-unique-thermal-features-associated-with-keyhole-generation-with-sub-milliseconal-time-resolution-and-a-100-prediction-rate-researchers-at-oak-ridge-national-laboratory-have-developed-a-way-to-combine-post-inspection-data-from-printed-parts-with-information-collected-by-sensors-during-the-printing-process-and-the-combined-data-teaches-machine-learning-algorithms-to-identify-defects-in-products-this-new-method-achieves-a-90-detection-rate-which-is-consistent-with-the-defect-detection-probability-of-traditional-evaluation-methods-thus-saving-time-and-reducing-costs-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+._9-dd-3295-cb-580463-da-4-a-28146474-d-5129-1 {
+  width: 1073px;
+  height: 605px;
+  position: absolute;
+  left: 297px;
+  top: 2957px;
+  object-fit: cover;
+}
+.new-technology-unsupported-metal-3-d-printing-1-eos-has-introduced-a-new-smart-fusion-solution-for-the-laser-powder-bed-melting-lpbf-3-d-printing-process-which-visually-detects-potential-build-issues-and-automatically-adjusts-laser-power-so-that-the-entire-printing-process-is-stable-and-reliable-without-the-use-of-support-resulting-in-more-uniform-and-consistent-parts-2-platite-said-that-it-has-broken-through-the-unsupported-metal-3-d-printing-process-and-can-achieve-unsupported-printing-of-overhanging-structures-below-30-3-huashu-hi-tech-released-the-self-developed-slm-less-support-technology-the-closed-impeller-printed-by-this-technology-can-reduce-the-support-amount-by-99-8-and-the-internal-and-external-25-bevel-structure-can-be-successfully-formed-without-support-4-easyplus-3-d-independently-developed-unsupported-metal-3-d-printing-process-can-print-al-si-10-mg-titanium-alloy-and-other-common-materials-can-achieve-120-m-thick-layer-printing-5-suzhou-baifeng-intelligent-based-on-the-pre-scan-concept-the-development-of-unsupported-printing-technology-the-current-baifeng-has-achieved-15-and-above-angle-unsupported-printing-6-hanbang-technology-research-and-development-team-has-conducted-research-and-exploration-of-metal-3-d-printing-unsupported-technology-and-can-achieve-15-25-tilt-features-of-unsupported-forming-7-3-d-systems-has-also-made-a-breakthrough-in-the-unsupported-lpbf-process {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 121px;
+  top: 3710px;
+  width: 1426px;
+  height: 1678px;
+}
+.new-technology-unsupported-metal-3-d-printing-1-eos-has-introduced-a-new-smart-fusion-solution-for-the-laser-powder-bed-melting-lpbf-3-d-printing-process-which-visually-detects-potential-build-issues-and-automatically-adjusts-laser-power-so-that-the-entire-printing-process-is-stable-and-reliable-without-the-use-of-support-resulting-in-more-uniform-and-consistent-parts-2-platite-said-that-it-has-broken-through-the-unsupported-metal-3-d-printing-process-and-can-achieve-unsupported-printing-of-overhanging-structures-below-30-3-huashu-hi-tech-released-the-self-developed-slm-less-support-technology-the-closed-impeller-printed-by-this-technology-can-reduce-the-support-amount-by-99-8-and-the-internal-and-external-25-bevel-structure-can-be-successfully-formed-without-support-4-easyplus-3-d-independently-developed-unsupported-metal-3-d-printing-process-can-print-al-si-10-mg-titanium-alloy-and-other-common-materials-can-achieve-120-m-thick-layer-printing-5-suzhou-baifeng-intelligent-based-on-the-pre-scan-concept-the-development-of-unsupported-printing-technology-the-current-baifeng-has-achieved-15-and-above-angle-unsupported-printing-6-hanbang-technology-research-and-development-team-has-conducted-research-and-exploration-of-metal-3-d-printing-unsupported-technology-and-can-achieve-15-25-tilt-features-of-unsupported-forming-7-3-d-systems-has-also-made-a-breakthrough-in-the-unsupported-lpbf-process-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.new-technology-unsupported-metal-3-d-printing-1-eos-has-introduced-a-new-smart-fusion-solution-for-the-laser-powder-bed-melting-lpbf-3-d-printing-process-which-visually-detects-potential-build-issues-and-automatically-adjusts-laser-power-so-that-the-entire-printing-process-is-stable-and-reliable-without-the-use-of-support-resulting-in-more-uniform-and-consistent-parts-2-platite-said-that-it-has-broken-through-the-unsupported-metal-3-d-printing-process-and-can-achieve-unsupported-printing-of-overhanging-structures-below-30-3-huashu-hi-tech-released-the-self-developed-slm-less-support-technology-the-closed-impeller-printed-by-this-technology-can-reduce-the-support-amount-by-99-8-and-the-internal-and-external-25-bevel-structure-can-be-successfully-formed-without-support-4-easyplus-3-d-independently-developed-unsupported-metal-3-d-printing-process-can-print-al-si-10-mg-titanium-alloy-and-other-common-materials-can-achieve-120-m-thick-layer-printing-5-suzhou-baifeng-intelligent-based-on-the-pre-scan-concept-the-development-of-unsupported-printing-technology-the-current-baifeng-has-achieved-15-and-above-angle-unsupported-printing-6-hanbang-technology-research-and-development-team-has-conducted-research-and-exploration-of-metal-3-d-printing-unsupported-technology-and-can-achieve-15-25-tilt-features-of-unsupported-forming-7-3-d-systems-has-also-made-a-breakthrough-in-the-unsupported-lpbf-process-span2 {
+  color: #000000;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 45px;
+  font-weight: 500;
+}
+.new-technology-unsupported-metal-3-d-printing-1-eos-has-introduced-a-new-smart-fusion-solution-for-the-laser-powder-bed-melting-lpbf-3-d-printing-process-which-visually-detects-potential-build-issues-and-automatically-adjusts-laser-power-so-that-the-entire-printing-process-is-stable-and-reliable-without-the-use-of-support-resulting-in-more-uniform-and-consistent-parts-2-platite-said-that-it-has-broken-through-the-unsupported-metal-3-d-printing-process-and-can-achieve-unsupported-printing-of-overhanging-structures-below-30-3-huashu-hi-tech-released-the-self-developed-slm-less-support-technology-the-closed-impeller-printed-by-this-technology-can-reduce-the-support-amount-by-99-8-and-the-internal-and-external-25-bevel-structure-can-be-successfully-formed-without-support-4-easyplus-3-d-independently-developed-unsupported-metal-3-d-printing-process-can-print-al-si-10-mg-titanium-alloy-and-other-common-materials-can-achieve-120-m-thick-layer-printing-5-suzhou-baifeng-intelligent-based-on-the-pre-scan-concept-the-development-of-unsupported-printing-technology-the-current-baifeng-has-achieved-15-and-above-angle-unsupported-printing-6-hanbang-technology-research-and-development-team-has-conducted-research-and-exploration-of-metal-3-d-printing-unsupported-technology-and-can-achieve-15-25-tilt-features-of-unsupported-forming-7-3-d-systems-has-also-made-a-breakthrough-in-the-unsupported-lpbf-process-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.rectangle-77 {
+  background: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 4px;
+  width: 309px;
+  height: 106px;
+  position: absolute;
+  left: 839px;
+  top: 6056px;
+}
+.rectangle-78 {
+  background: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 4px;
+  width: 286px;
+  height: 60px;
+  position: absolute;
+  left: 839px;
+  top: 7385px;
+}
+.rectangle-79 {
+  background: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 4px;
+  width: 230px;
+  height: 53px;
+  position: absolute;
+  left: 959px;
+  top: 7995px;
+}
+.rectangle-80 {
+  background: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 4px;
+  width: 230px;
+  height: 53px;
+  position: absolute;
+  left: 959px;
+  top: 8148px;
+}
+.rectangle-81 {
+  background: rgba(255, 255, 255, 0.1);
+  border-style: solid;
+  border-color: #ff0000;
+  border-width: 4px;
+  width: 132px;
+  height: 38px;
+  position: absolute;
+  left: 1312px;
+  top: 10670px;
+}
+._8-a-046-ddebe-9357-e-0-e-24550-e-6-e-347518-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1416px;
+  height: 848px;
+  position: absolute;
+  left: 126px;
+  top: 10830px;
+  object-fit: cover;
+}
+._19-c-728-f-5736-a-09-db-35180-e-2122-f-5-ea-0-1 {
+  width: 1409px;
+  height: 846px;
+  position: absolute;
+  left: 133px;
+  top: 8897px;
+  object-fit: cover;
+}

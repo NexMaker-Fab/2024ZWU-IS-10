@@ -21,8 +21,8 @@
   width: 372px;
   height: 129px;
   position: absolute;
-  left: 395px;
-  top: 447px;
+  left: 1178px;
+  top: 194px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -53,8 +53,8 @@
   width: 372px;
   height: 129px;
   position: absolute;
-  left: 922px;
-  top: 446px;
+  left: 128px;
+  top: 414px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .interface-application-programming {
@@ -82,8 +82,8 @@
   width: 360px;
   height: 127px;
   position: absolute;
-  left: 922px;
-  top: 247px;
+  left: 659px;
+  top: 194px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
 }
 .arduino-output {
@@ -111,8 +111,8 @@
   width: 372px;
   height: 129px;
   position: absolute;
-  left: 395px;
-  top: 247px;
+  left: 128px;
+  top: 194px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -152,8 +152,8 @@
   width: 360px;
   height: 130px;
   position: absolute;
-  left: 395px;
-  top: 646px;
+  left: 659px;
+  top: 414px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
@@ -181,16 +181,47 @@
   align-items: center;
   justify-content: center;
   width: 360px;
-  height: 129px;
+  height: 130px;
   position: absolute;
-  left: 922px;
-  top: 647px;
+  left: 128px;
+  top: 634px;
   box-shadow: var(
     --button-shadow-box-shadow,
     0px 1px 2px 0px rgba(0, 0, 0, 0.05)
   );
 }
-._6 {
+._3-d-printer {
+  color: #9d74f4;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._00-button6 {
+  background: rgba(252, 254, 255, 0.44);
+  border-radius: 20px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 360px;
+  height: 129px;
+  position: absolute;
+  left: 1178px;
+  top: 405px;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.materails {
   color: #9d74f4;
   text-align: left;
   font-family: "Inter-Bold", sans-serif;
