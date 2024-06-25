@@ -4,7 +4,7 @@
 }
 .materails {
   background: #ffffff;
-  height: 33965px;
+  height: 37320px;
   position: relative;
   overflow: hidden;
 }
@@ -162,8 +162,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 62px;
-  top: 13985px;
+  left: 72px;
+  top: 16284px;
   width: 1576px;
   height: 126px;
   display: flex;
@@ -178,8 +178,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 52px;
-  top: 21027px;
+  left: 51px;
+  top: 24105px;
   width: 1576px;
   height: 126px;
   display: flex;
@@ -258,8 +258,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 150px;
-  top: 21105px;
+  left: 149px;
+  top: 24183px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -274,8 +274,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 190px;
-  top: 25108px;
+  left: 189px;
+  top: 28186px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -290,8 +290,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 169px;
-  top: 27968px;
+  left: 168px;
+  top: 31046px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -306,8 +306,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 169px;
-  top: 29326px;
+  left: 168px;
+  top: 32404px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -322,8 +322,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 135px;
-  top: 9071px;
+  left: 145px;
+  top: 11370px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -353,8 +353,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 201px;
-  top: 14111px;
+  left: 211px;
+  top: 16410px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -384,8 +384,8 @@
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 188px;
-  top: 17958px;
+  left: 187px;
+  top: 21036px;
   width: 1289px;
   height: 166px;
   display: flex;
@@ -396,7 +396,7 @@
   width: 486px;
   height: 641px;
   position: absolute;
-  left: 1104px;
+  left: 1116px;
   top: 505px;
   object-fit: cover;
 }
@@ -528,6 +528,96 @@
   line-height: 150%;
   font-weight: 400;
 }
+.first-heat-the-milk-to-about-80-degrees {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 9699px;
+  width: 669px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vinegar-is-added-to-make-the-milk-p-h-level-acidic {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 978px;
+  top: 9684px;
+  width: 590px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.solid-casein-is-separated-from-the-liquid-which-is-mainly-whey-and-water {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 122px;
+  top: 10415px;
+  width: 607px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pinch-them-into-the-shape-you-want {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 122px;
+  top: 11205px;
+  width: 607px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.after-a-few-days-of-drying-a-very-hard-substance-is-obtained {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 978px;
+  top: 11190px;
+  width: 607px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dry-the-casein-with-a-paper-towel-to-allow-it-to-be-molded {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 969px;
+  top: 10415px;
+  width: 607px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
 .a-definition-it-is-a-new-type-of-composite-material-that-has-flourished-at-home-and-abroad-in-recent-years-which-refers-to-the-use-of-polyethylene-polypropylene-and-polyvinyl-chloride-instead-of-the-usual-resin-adhesive-and-then-through-extrusion-molding-injection-molding-and-other-plastic-processing-technologies-to-produce-plates-or-profiles-b-scope-of-application-one-of-the-most-important-uses-of-wood-plastic-composites-is-the-application-of-replacing-solid-wood-in-various-fields-among-which-the-most-widely-used-is-in-building-products-accounting-for-75-of-the-total-number-of-wood-plastic-composite-products-wood-plastic-composites-are-mainly-used-in-flower-boxes-tree-ponds-fences-garbage-cans-stools-chair-strips-signs-etc-c-key-features-1-good-processing-performance-2-good-strength-performance-3-it-has-water-resistance-corrosion-resistance-and-long-service-life-4-excellent-adjustable-performance-5-it-has-ultraviolet-light-stability-and-good-colorability-6-it-can-turn-waste-into-treasure-and-can-be-100-recycled-and-reproduced-it-can-be-decomposed-will-not-cause-white-pollution-and-is-a-real-green-and-environmentally-friendly-product-7-wide-range-of-raw-materials-8-it-can-be-made-into-any-shape-and-size-according-to-needs {
   color: #000000;
   text-align: left;
@@ -588,22 +678,29 @@
   line-height: 150%;
   font-weight: 400;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic {
   color: #000000;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "-", sans-serif;
   font-size: 40px;
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 110px;
-  top: 5785px;
+  left: 115px;
+  top: 6552px;
   width: 1480px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span2 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
@@ -611,7 +708,7 @@
   font-weight: 400;
   text-decoration: underline;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span2 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span3 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
@@ -619,7 +716,7 @@
   font-weight: 400;
   text-decoration: underline;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span3 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span4 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
@@ -627,14 +724,21 @@
   font-weight: 400;
   text-decoration: underline;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span4 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span5 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
   line-height: 150%;
   font-weight: 400;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span5 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span6 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span7 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
@@ -642,14 +746,14 @@
   font-weight: 400;
   text-decoration: underline;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span6 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span8 {
   color: #000000;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-SemiBold", sans-serif;
   font-size: 40px;
   line-height: 150%;
-  font-weight: 400;
+  font-weight: 600;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span7 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span9 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
@@ -657,12 +761,41 @@
   font-weight: 400;
   text-decoration: underline;
 }
-.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-c-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-span8 {
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span10 {
   color: #000000;
   font-family: "Inter-Regular", sans-serif;
   font-size: 40px;
   line-height: 150%;
   font-weight: 400;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span11 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span12 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span13 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.a-what-is-milk-plastic-baidu-com-milk-plastic-is-a-natural-plastic-alternative-that-uses-discarded-milk-as-the-main-ingredient-the-plastic-is-made-in-a-similar-way-to-cheese-using-waste-milk-combined-with-natural-plasticizers-to-coagulate-and-dry-into-granular-materials-b-the-process-of-making-milk-plastic-bilibili-c-what-are-the-advantages-of-milk-plastic-1-sustainability-milk-plastic-uses-waste-milk-as-the-main-raw-material-to-transform-waste-resources-into-useful-products-helping-to-reduce-the-environmental-impact-of-waste-and-reducing-dependence-on-finite-resources-making-it-more-sustainable-2-lower-carbon-footprint-the-process-of-making-milk-plastic-reduces-co-2-emissions-compared-to-traditional-plastic-manufacturing-processes-3-biodegradability-milk-plastic-is-more-similar-to-natural-materials-in-structure-so-it-can-be-more-easily-decomposed-by-microorganisms-reducing-pollution-to-the-environment-in-contrast-traditional-synthetic-plastics-typically-take-hundreds-of-years-or-more-to-degrade-4-diversity-and-plasticity-milk-plastic-has-similar-properties-to-traditional-plastics-and-can-be-made-into-products-of-various-shapes-and-uses-through-different-processing-methods-including-containers-tableware-household-items-etc-in-addition-it-can-also-be-latheized-and-machined-like-wood-with-a-wider-range-of-application-prospects-5-reduced-dependence-on-fossil-fuels-making-milk-plastic-does-not-require-the-use-of-fossil-fuels-as-a-feedstock-so-it-can-reduce-dependence-on-finite-fossil-resources-and-reduce-the-damaging-impact-on-the-environment-d-what-can-milk-plastic-be-used-for-1-packaging-industry-food-packaging-boxes-containers-bottles-cosmetics-packaging-boxes-bottles-daily-necessities-packaging-boxes-bottles-etc-2-food-service-industry-disposable-tableware-such-as-knives-forks-spoons-chopsticks-etc-reusable-utensils-such-as-plates-bowls-cups-etc-3-household-items-storage-boxes-baskets-flower-pots-etc-furniture-components-such-as-chairs-table-components-4-stationery-pens-pencil-cases-folders-etc-5-industrial-products-industrial-containers-storage-barrels-etc-6-arts-and-crafts-sculptures-ornaments-etc-e-the-process-of-making-milk-plastic-span14 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 600;
 }
 .a-what-is-aluminum-foam-sheet-aluminum-foam-plate-is-made-of-pure-aluminum-or-aluminum-alloy-after-adding-additives-through-the-foaming-process-which-has-both-metal-and-bubble-characteristics-and-the-surface-of-the-aluminum-plate-has-a-dense-porous-metal-structure-which-is-the-largest-morphological-feature-of-this-material-aluminum-foam-board-provides-more-choices-for-architects-due-to-its-stable-quality-unique-appearance-strong-functionality-and-wide-variety-of-specifications-and-is-often-used-in-a-large-area-in-the-interior-and-exterior-walls-of-buildings-indoor-floors-and-other-scenes-and-the-material-is-easy-to-process-and-install-b-what-are-the-performance-characteristics-of-aluminum-foam-sheet-1-noise-reduction-and-sound-insulation-because-of-the-special-structure-formed-in-the-production-process-the-foam-aluminum-sheet-has-good-sound-absorption-performance-even-in-the-humid-environment-of-the-bathroom-and-toilet-the-material-still-maintains-a-good-sound-absorption-and-noise-reduction-effect-which-is-more-than-double-the-noise-reduction-effect-of-other-sound-absorption-materials-2-fire-and-heat-insulation-aluminum-metal-has-good-flame-retardant-and-heat-resistance-and-a-large-area-of-foam-aluminum-panels-are-laid-on-indoor-and-outdoor-walls-columns-and-other-blocks-which-is-equivalent-to-forming-an-efficient-fire-zone-in-the-space-especially-in-large-private-houses-exhibition-halls-and-other-buildings-which-can-effectively-improve-the-indoor-and-outdoor-fire-coefficient-3-durable-and-corrosion-resistant-the-surface-of-the-foam-aluminum-board-has-good-antioxidant-properties-such-as-in-the-bathroom-it-is-not-easy-to-be-eroded-by-moisture-not-easy-to-mold-not-easy-to-dirty-and-it-is-used-indoors-does-not-change-color-and-can-be-cleaned-in-outdoor-rainy-areas-4-good-light-transmittance-the-multi-angle-refraction-of-light-from-the-various-holes-generated-by-gas-foaming-in-the-double-sided-perforated-translucent-plate-can-produce-rich-and-brilliant-brilliance-when-doing-light-transmission-applications-5-good-decoration-the-surface-of-the-foam-aluminum-plate-can-be-sprayed-with-different-colors-or-patterns-for-decoration-and-the-coating-has-been-sprayed-and-dried-for-many-times-to-form-a-beautiful-decorative-effect-which-can-meet-the-creative-and-artistic-treatment-of-the-designer-during-the-decoration-design-6-recyclable-the-foam-aluminum-plate-is-made-of-aluminum-alloy-die-casting-and-after-breaking-it-can-be-fully-recycled-which-is-a-new-type-of-green-and-environmentally-friendly-high-tech-product-that-does-not-cause-secondary-pollution-to-the-environment-7-fire-performance-the-porous-structure-of-aluminum-foam-forms-a-large-number-of-closed-pores-which-have-good-thermal-insulation-properties-and-can-effectively-isolate-high-or-low-temperatures-therefore-aluminum-foam-is-widely-used-in-the-field-of-thermal-insulation-materials-such-as-construction-refrigerator-manufacturing-etc-at-the-same-time-aluminum-foam-has-good-fire-performance-is-not-easy-to-burn-and-can-effectively-slow-down-the-spread-of-fire {
   color: #000000;
@@ -672,8 +805,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 110px;
-  top: 9742px;
+  left: 120px;
+  top: 12041px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -792,8 +925,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 18079px;
+  left: 98px;
+  top: 21157px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -837,8 +970,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 132px;
-  top: 28157px;
+  left: 131px;
+  top: 31235px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -905,8 +1038,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 138px;
-  top: 29462px;
+  left: 137px;
+  top: 32540px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -920,8 +1053,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 29544px;
+  left: 98px;
+  top: 32622px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -935,8 +1068,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 30464px;
+  left: 98px;
+  top: 33542px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -950,8 +1083,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 107px;
-  top: 31466px;
+  left: 106px;
+  top: 34544px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -965,8 +1098,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 25702px;
+  left: 98px;
+  top: 28780px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -980,8 +1113,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 99px;
-  top: 21266px;
+  left: 98px;
+  top: 24344px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1062,8 +1195,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 106px;
-  top: 14394px;
+  left: 116px;
+  top: 16693px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1106,6 +1239,21 @@
   line-height: 150%;
   font-weight: 400;
 }
+.effect-of-electrophoretic-dissociation-technique-before-and-after-protein-removal {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 214px;
+  top: 18725px;
+  width: 1250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .the-general-process-flow-of-anodic-electrophoresis-is-as-follows-workpiece-pretreatment-degreasing-hot-water-washing-rust-removal-cold-water-washing-phosphating-hot-water-washing-passivation-anode-electrophoresis-post-treatment-of-the-workpiece-washing-with-water-drying-1-degreasing-the-solution-is-generally-a-hot-alkaline-chemical-degreasing-solution-the-temperature-is-60-c-steam-heating-and-the-time-is-about-20-min-2-wash-with-hot-water-the-temperature-is-60-c-steam-heating-and-the-time-is-2-min-3-rust-removal-with-h-2-so-4-or-h-cl-e-g-with-hydrochloric-acid-rust-remover-h-cl-total-acidity-43-points-free-acidity-41-points-add-1-5-cleaning-agent-wash-at-room-temperature-for-10-20-min-4-wash-in-cold-water-wash-with-cold-water-in-running-water-for-1-min-5-phosphating-phosphate-at-medium-temperature-phosphating-at-60-c-for-10-min-and-the-phosphate-solution-can-be-used-as-a-commercially-available-product-the-above-process-can-also-be-replaced-by-sandblasting-washing-6-passivation-with-the-drug-matched-with-the-phosphate-solution-provided-by-the-manufacturer-selling-the-phosphate-solution-1-2-min-at-room-temperature-7-anode-electrophoresis-electrolyte-composition-h-08-1-black-electrophoretic-paint-solid-content-9-12-distilled-water-mass-fraction-88-91-voltage-70-10-v-time-2-2-5-min-paint-temperature-15-35-c-paint-p-h-8-8-5-note-that-the-workpiece-in-and-out-of-the-groove-should-be-powered-off-during-electrophoresis-the-current-gradually-decreases-as-the-paint-film-thickens-8-wash-with-water-wash-under-cold-running-water-9-drying-it-can-be-baked-in-the-oven-at-a-temperature-of-165-5-c-for-40-60-min {
   color: #000000;
   text-align: left;
@@ -1114,8 +1262,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 148px;
-  top: 15835px;
+  left: 120px;
+  top: 18909px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1130,8 +1278,8 @@
   font-weight: 400;
   text-decoration: underline;
   position: absolute;
-  left: 106px;
-  top: 14179px;
+  left: 116px;
+  top: 16478px;
   width: 1480px;
   height: 360px;
   display: flex;
@@ -1146,8 +1294,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 110px;
-  top: 9071px;
+  left: 120px;
+  top: 11370px;
   width: 1480px;
   height: 360px;
   display: flex;
@@ -1193,140 +1341,108 @@
   top: 3921px;
   object-fit: cover;
 }
-.m-5 {
-  width: 556px;
-  height: 733px;
-  position: absolute;
-  left: 193px;
-  top: 8338px;
-  object-fit: cover;
-}
-.m-6 {
-  width: 595px;
-  height: 782px;
-  position: absolute;
-  left: 850px;
-  top: 8338px;
-  object-fit: cover;
-}
 .m-15 {
   width: 345px;
   height: 324px;
   position: absolute;
-  left: 1232px;
-  top: 27889px;
+  left: 1231px;
+  top: 30967px;
   object-fit: cover;
 }
 .m-12 {
   width: 405px;
   height: 382px;
   position: absolute;
-  left: 446px;
-  top: 25274px;
+  left: 445px;
+  top: 28352px;
   object-fit: cover;
 }
 .m-13 {
   width: 378px;
   height: 378px;
   position: absolute;
-  left: 854px;
-  top: 25278px;
+  left: 853px;
+  top: 28356px;
   object-fit: cover;
 }
 .m-14 {
   width: 383px;
   height: 378px;
   position: absolute;
-  left: 1234px;
-  top: 25278px;
+  left: 1233px;
+  top: 28356px;
   object-fit: cover;
 }
 .m-11 {
   width: 381px;
   height: 378px;
   position: absolute;
-  left: 99px;
-  top: 25276px;
+  left: 98px;
+  top: 28354px;
   object-fit: cover;
 }
 .m-8 {
   width: 502px;
   height: 634px;
   position: absolute;
-  left: 619px;
-  top: 13206px;
+  left: 629px;
+  top: 15505px;
   object-fit: cover;
 }
 .m-7 {
   width: 528px;
   height: 634.5px;
   position: absolute;
-  left: 91px;
-  top: 13206px;
+  left: 101px;
+  top: 15505px;
   object-fit: cover;
 }
 .a {
   width: 388px;
   height: 371px;
   position: absolute;
-  left: 1140px;
-  top: 9332px;
+  left: 1150px;
+  top: 11631px;
   object-fit: cover;
 }
 .s {
   width: 484px;
   height: 312px;
   position: absolute;
-  left: 1121px;
-  top: 13206px;
+  left: 1131px;
+  top: 15505px;
   object-fit: cover;
 }
 .z {
   width: 456px;
   height: 371px;
   position: absolute;
-  left: 666px;
-  top: 9332px;
-  object-fit: cover;
-}
-.x {
-  width: 462px;
-  height: 347px;
-  position: absolute;
-  left: 148px;
-  top: 17611px;
-  object-fit: cover;
-}
-.d {
-  width: 475px;
-  height: 347px;
-  position: absolute;
-  left: 610px;
-  top: 17611px;
+  left: 676px;
+  top: 11631px;
   object-fit: cover;
 }
 .g {
   width: 1338px;
   height: 662px;
   position: absolute;
-  left: 181px;
-  top: 15111px;
+  left: 191px;
+  top: 17410px;
   object-fit: cover;
 }
 .c {
-  width: 468px;
+  width: 449px;
   height: 347px;
   position: absolute;
-  left: 1085px;
-  top: 17611px;
+  left: 1163px;
+  top: 20689px;
   object-fit: cover;
 }
 .b {
   width: 484px;
   height: 319px;
   position: absolute;
-  left: 1121px;
-  top: 13521px;
+  left: 1131px;
+  top: 15820px;
   object-fit: cover;
 }
 .a2 {
@@ -1334,32 +1450,8 @@
   width: 538px;
   height: 371px;
   position: absolute;
-  left: 110px;
-  top: 9332px;
-  object-fit: cover;
-}
-.a-a {
-  width: 513px;
-  height: 360px;
-  position: absolute;
-  left: 91px;
-  top: 18407px;
-  object-fit: cover;
-}
-.bb {
-  width: 483px;
-  height: 360px;
-  position: absolute;
-  left: 604px;
-  top: 18407px;
-  object-fit: cover;
-}
-.cc {
-  width: 500px;
-  height: 360px;
-  position: absolute;
-  left: 1087px;
-  top: 18407px;
+  left: 120px;
+  top: 11631px;
   object-fit: cover;
 }
 .b-polished-remove-the-surface-of-the-wood-products-stained-by-glue-marks-oil-stains-and-other-dirt-first-polish-them-with-sandpaper-and-then-scrub-them-with-cotton-yarn-dipped-in-gasoline-if-the-cleaning-is-not-clean-use-a-fine-planer-to-clean-the-surface {
@@ -1370,8 +1462,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 100px;
-  top: 18798px;
+  left: 99px;
+  top: 21876px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1381,24 +1473,24 @@
   width: 353px;
   height: 353px;
   position: absolute;
-  left: 70px;
-  top: 19127px;
+  left: 69px;
+  top: 22205px;
   object-fit: cover;
 }
 .pff {
   width: 580px;
   height: 378px;
   position: absolute;
-  left: 1042px;
-  top: 19123px;
+  left: 1041px;
+  top: 22201px;
   object-fit: cover;
 }
 .ee {
   width: 557px;
   height: 352px;
   position: absolute;
-  left: 454px;
-  top: 19128px;
+  left: 453px;
+  top: 22206px;
   object-fit: cover;
 }
 .c-decolorization-the-wood-is-bleached-with-oxidation-reduction-chemicals-commonly-used-decolorizing-agents-hydrogen-peroxide-sodium-hypochlorite-sodium-peroxide {
@@ -1409,8 +1501,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 88px;
-  top: 19526px;
+  left: 87px;
+  top: 22604px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1420,24 +1512,24 @@
   width: 291px;
   height: 380px;
   position: absolute;
-  left: 88px;
-  top: 19791px;
+  left: 87px;
+  top: 22869px;
   object-fit: cover;
 }
 .u {
   width: 541px;
   height: 380px;
   position: absolute;
-  left: 169px;
-  top: 20422px;
+  left: 168px;
+  top: 23500px;
   object-fit: cover;
 }
 .y {
   width: 523px;
   height: 380px;
   position: absolute;
-  left: 1025px;
-  top: 19791px;
+  left: 1024px;
+  top: 22869px;
   object-fit: cover;
 }
 .d-stain-chemically-or-otherwise-influencing-the-substance-itself-to-color-it-so-that-the-object-takes-on-the-colors-that-people-need-there-are-two-types-water-dyeing-and-wine-dyeing {
@@ -1448,8 +1540,8 @@
   line-height: 150%;
   font-weight: 400;
   position: absolute;
-  left: 88px;
-  top: 20217px;
+  left: 87px;
+  top: 23295px;
   width: 1480px;
   display: flex;
   align-items: center;
@@ -1489,49 +1581,198 @@
   width: 636px;
   height: 380px;
   position: absolute;
-  left: 384px;
-  top: 19791px;
+  left: 383px;
+  top: 22869px;
   object-fit: cover;
 }
 .r {
   width: 762px;
   height: 380px;
   position: absolute;
-  left: 724px;
-  top: 20422px;
+  left: 723px;
+  top: 23500px;
   object-fit: cover;
 }
 .e {
   width: 1230px;
   height: 562px;
   position: absolute;
-  left: 197px;
-  top: 29873px;
+  left: 196px;
+  top: 32951px;
   object-fit: cover;
 }
 .w {
   width: 1298px;
   height: 524px;
   position: absolute;
-  left: 165px;
-  top: 30913px;
+  left: 164px;
+  top: 33991px;
   object-fit: cover;
 }
 .q {
   width: 305px;
   height: 269px;
   position: absolute;
-  left: 1274px;
-  top: 29320px;
+  left: 1273px;
+  top: 32398px;
   object-fit: cover;
 }
 .n {
   width: 430px;
   height: 438px;
   position: absolute;
-  left: 1588px;
-  top: 20876px;
+  left: 1587px;
+  top: 23954px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.m-5 {
+  width: 547px;
+  height: 685px;
+  position: absolute;
+  left: 907px;
+  top: 5822px;
+  object-fit: cover;
+}
+.m-6 {
+  width: 585px;
+  height: 730px;
+  position: absolute;
+  left: 224px;
+  top: 5822px;
+  object-fit: cover;
+}
+.qqq {
+  width: 621px;
+  height: 367.5px;
+  position: absolute;
+  left: 126px;
+  top: 9300px;
+  object-fit: cover;
+}
+.jjj-1 {
+  width: 566px;
+  height: 368px;
+  position: absolute;
+  left: 978px;
+  top: 9300px;
+  object-fit: cover;
+}
+.arrow-11 {
+  width: 179px;
+  height: 0px;
+  position: absolute;
+  left: 777px;
+  top: 9575px;
+  transform: translate(0px, -7.36px);
+  overflow: visible;
+}
+.arrow-13 {
+  width: 179px;
+  height: 0px;
+  position: absolute;
+  left: 759px;
+  top: 10199px;
+  transform: translate(0px, -7.36px);
+  overflow: visible;
+}
+.arrow-15 {
+  width: 179px;
+  height: 0px;
+  position: absolute;
+  left: 759px;
+  top: 10961px;
+  transform: translate(0px, -7.36px);
+  overflow: visible;
+}
+.ddd {
+  width: 621px;
+  height: 368px;
+  position: absolute;
+  left: 115px;
+  top: 10015px;
+  object-fit: cover;
+}
+.arrow-12 {
+  width: 673.47px;
+  height: 0px;
+  position: absolute;
+  left: 1092px;
+  top: 9852px;
+  transform: translate(-667px, -0.99px);
+  overflow: visible;
+}
+.arrow-14 {
+  width: 673.47px;
+  height: 0px;
+  position: absolute;
+  left: 1110px;
+  top: 10612px;
+  transform: translate(-667px, -0.99px);
+  overflow: visible;
+}
+.fff {
+  width: 590px;
+  height: 368px;
+  position: absolute;
+  left: 978px;
+  top: 10015px;
+  object-fit: cover;
+}
+.cccc {
+  width: 614px;
+  height: 362px;
+  position: absolute;
+  left: 115px;
+  top: 10780px;
+  object-fit: cover;
+}
+.xxx {
+  width: 593px;
+  height: 362px;
+  position: absolute;
+  left: 978px;
+  top: 10780px;
+  object-fit: cover;
+}
+.oo {
+  width: 494px;
+  height: 347px;
+  position: absolute;
+  left: 669px;
+  top: 20689px;
+  object-fit: cover;
+}
+.yy {
+  width: 570px;
+  height: 347px;
+  position: absolute;
+  left: 99px;
+  top: 20689px;
+  object-fit: cover;
+}
+.kkk {
+  width: 1071px;
+  height: 520px;
+  position: absolute;
+  left: 303px;
+  top: 18165px;
+  object-fit: cover;
+}
+.jjj {
+  width: 549px;
+  height: 409px;
+  position: absolute;
+  left: 870px;
+  top: 21467px;
+  object-fit: cover;
+}
+.hhh {
+  width: 612px;
+  height: 409px;
+  position: absolute;
+  left: 258px;
+  top: 21467px;
   object-fit: cover;
 }
